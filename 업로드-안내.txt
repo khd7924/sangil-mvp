@@ -1,0 +1,40 @@
+[산길 MVP · GitHub 업로드 안내]
+
+이 폴더에는 다음 4개 파일이 들어 있습니다.
+
+1. index.html
+2. styles.css
+3. app.js
+4. 업로드-안내.txt
+
+중요:
+- GitHub에는 이 폴더 자체가 아니라 폴더 안의 파일들을 올리세요.
+- 기존 index.html은 새 index.html로 교체해야 합니다.
+- 네이버 Client Secret은 이 앱에 포함하지 않았습니다.
+
+[업로드 순서]
+
+1. https://github.com/khd7924/sangil-mvp 에 접속합니다.
+2. Code 탭을 누릅니다.
+3. Add file을 누릅니다.
+4. Upload files를 누릅니다.
+5. 이 폴더 안의 4개 파일을 모두 끌어다 놓습니다.
+6. 화면 아래 Commit changes를 누릅니다.
+7. Actions 탭에서 pages build and deployment가 초록색 체크가 될 때까지 기다립니다.
+8. https://khd7924.github.io/sangil-mvp/ 에 접속합니다.
+
+[네이버 콘솔에서 꼭 해야 할 일]
+
+Application의 Web 서비스 URL에 아래 주소를 추가하세요.
+
+https://khd7924.github.io
+
+기존 주소는 시험용으로 유지해도 됩니다.
+
+https://sangil-mvp.k19713036.chatgpt.site
+
+[주의]
+
+이 버전의 추천 코스와 위험 정보는 MVP 시연용 샘플 데이터입니다.
+실제 산행 전에는 국립공원 및 공공기관의 최신 정보를 확인해야 합니다.
+긴급 상황에서는 앱의 SOS 버튼에만 의존하지 말고 119에 직접 연락하세요.
