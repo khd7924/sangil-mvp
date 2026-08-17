@@ -1,8 +1,11 @@
 "use strict";
 
+const NAVER_MAP_CLIENT_ID = "bsd3bg4vgo";
 const app = document.getElementById("app");
 const state = { screen: "home", loading: true, error: "", query: "", type: "all", mountains: [], courses: [], trails: [], results: [], selected: null };
 let toastTimer;
+let naverMapsPromise;
+const routeCache = new Map();
 
 const esc = (value = "") => String(value).replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
 const clean = (value = "") => String(value).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
@@ -36,16 +39,27 @@ function formatMinutes(value) {
 }
 
 function normalizeTrail(item, index) {
-  const start = clean(item.start);
-  const via = clean(item.via);
-  const end = clean(item.end);
+  const routePoints = clean(item.detail).split(/\s*~\s*/).filter(Boolean);
+  const start = clean(item.start || routePoints[0]);
+  const end = clean(item.end || routePoints.at(-1));
+  const via = clean(item.via || routePoints.slice(1, -1).join(" → "));
+  const regions = Array.isArray(item.regions) ? item.regions.map(clean).filter(Boolean) : [];
+  const representativeRegion = clean(item.representativeRegion);
+  const searchableRegions = [representativeRegion, ...regions].filter((value, position, values) => value && values.indexOf(value) === position);
+  const spatial = Boolean(item.parkName);
   return {
-    kind: "trail", id: `trail-${index}`,
+    kind: "trail", id: clean(item.id) || `trail-${index}`,
     name: clean(item.name) || `${start}~${end}` || "이름 없는 탐방로",
-    region: "국립공원 탐방로", start, via, end,
+    parkName: clean(item.parkName), regions: searchableRegions, representativeRegion,
+    region: spatial ? representativeRegion || regions[0] || clean(item.parkName) : "국립공원 탐방로", start, via, end,
     distance: Number(item.distanceMeters) ? (Number(item.distanceMeters) / 1000).toFixed(1) : "",
-    uphill: formatMinutes(item.uphillMinutes), downhill: formatMinutes(item.downhillMinutes),
-    summary: [start, via, end].filter(Boolean).join(" → "),
+    uphill: spatial ? formatMinutes(item.outboundTime) : formatMinutes(item.uphillMinutes),
+    downhill: spatial ? formatMinutes(item.returnTime) : formatMinutes(item.downhillMinutes),
+    difficulty: clean(item.difficulty), closed: clean(item.closed), controlDescription: clean(item.controlDescription),
+    center: item.center || null, bounds: item.bounds || null, coordinateCount: Number(item.coordinateCount) || 0,
+    simplifiedCoordinateCount: Number(item.simplifiedCoordinateCount) || 0,
+    routeFile: clean(item.routeFile), routeKey: clean(item.routeKey),
+    summary: [clean(item.parkName), start, via, end].filter(Boolean).join(" · "),
     details: [start, via, end].filter(Boolean).join(" → "), source: "국립공원공단",
   };
 }
@@ -98,8 +112,79 @@ function detailView() {
   if (!item) return searchView();
   const mountain = item.kind === "mountain";
   const trail = item.kind === "trail";
-  const trailFacts = trail ? `<div class="caution"><b>탐방 경로</b><span>${esc(item.start || "정보 없음")} → ${esc(item.via || "경유지 없음")} → ${esc(item.end || "정보 없음")}</span></div><div class="metrics"><div><b>${esc(item.uphill)}</b><span>상행</span></div><div><b>${esc(item.downhill)}</b><span>하행</span></div></div>` : "";
-  return `<main class="app"><header class="screen-head"><button class="back" data-action="search" aria-label="뒤로">‹</button><div><small>${item.source}</small><h1>${esc(item.name)}</h1></div></header><section class="detail"><div class="map-wrap"><div class="mountain-visual" style="position:absolute;inset:0"><div class="sun"></div><div class="ridge back"></div><div class="ridge"></div><span class="badge left">${esc(item.region)}</span><span class="badge right">${mountain ? "전국 산 정보" : trail ? "국립공원 탐방로" : "걷기 코스"}</span></div></div><aside class="summary"><span class="eyebrow">${mountain ? "산림청 산 정보" : trail ? "국립공원공단 탐방로" : "두루누비 걷기 코스"}</span><h2>${esc(item.name)}</h2><p>${esc(item.details || item.summary || "상세 설명이 제공되지 않았습니다.")}</p><div class="metrics"><div><b>${esc(trail ? (item.start || "없음") : item.region)}</b><span>${trail ? "출발점" : "지역"}</span></div><div><b>${esc(mountain ? (item.height ? `${item.height}m` : "없음") : (item.distance ? `${item.distance}km` : "없음"))}</b><span>${mountain ? "높이" : "거리"}</span></div><div><b>${esc(trail ? (item.end || "없음") : mountain ? (item.manager || "없음") : (item.duration || "없음"))}</b><span>${trail ? "도착점" : mountain ? "관리기관" : "예상시간"}</span></div><div><b>${item.source}</b><span>출처</span></div></div>${trailFacts}${!mountain && item.travelerInfo ? `<div class="caution"><b>여행자 안내</b><span>${esc(item.travelerInfo)}</span></div>` : ""}<button class="naver-link" data-naver-search="${esc(trail ? `${item.start} ${item.end}` : item.name)}">N 네이버 지도에서 검색<span>›</span></button>${!mountain && item.gpxPath ? `<button class="primary" data-gpx="${esc(item.gpxPath)}">GPX 경로 열기 <span>›</span></button>` : ""}<small class="fine">산행 전 현장 통제·날씨·안전정보를 확인하세요.</small></aside></section>${bottomNav("search")}</main>`;
+  const trailFacts = trail ? `<div class="caution"><b>탐방 경로</b><span>${esc(item.start || "정보 없음")} → ${esc(item.via || "경유지 없음")} → ${esc(item.end || "정보 없음")}</span></div><div class="metrics"><div><b>${esc(item.parkName || "국립공원")}</b><span>국립공원</span></div><div><b>${esc(item.uphill)}</b><span>가는 시간</span></div><div><b>${esc(item.downhill)}</b><span>오는 시간</span></div><div><b>${esc(item.simplifiedCoordinateCount ? `${item.simplifiedCoordinateCount.toLocaleString()}개` : "준비 중")}</b><span>지도 표시 좌표</span></div></div>` : "";
+  const mapPanel = trail && item.routeFile
+    ? `<div class="map-wrap"><div id="trail-map" class="map" aria-label="${esc(item.name)} 네이버지도 경로"></div><div id="map-state" class="map-state">탐방로 지도를 불러오는 중…<small>선택한 코스의 경로 좌표만 불러옵니다.</small></div><span class="gps">주황색 선 · 참고용 경로</span></div>`
+    : `<div class="map-wrap"><div class="mountain-visual" style="position:absolute;inset:0"><div class="sun"></div><div class="ridge back"></div><div class="ridge"></div><span class="badge left">${esc(item.region)}</span><span class="badge right">${mountain ? "전국 산 정보" : "걷기 코스"}</span></div></div>`;
+  return `<main class="app"><header class="screen-head"><button class="back" data-action="search" aria-label="뒤로">‹</button><div><small>${item.source}</small><h1>${esc(item.name)}</h1></div></header><section class="detail">${mapPanel}<aside class="summary"><span class="eyebrow">${mountain ? "산림청 산 정보" : trail ? "국립공원공단 탐방로" : "두루누비 걷기 코스"}</span><h2>${esc(item.name)}</h2><p>${esc(item.details || item.summary || "상세 설명이 제공되지 않았습니다.")}</p><div class="metrics"><div><b>${esc(trail ? (item.start || "없음") : item.region)}</b><span>${trail ? "출발점" : "지역"}</span></div><div><b>${esc(mountain ? (item.height ? `${item.height}m` : "없음") : (item.distance ? `${item.distance}km` : "없음"))}</b><span>${mountain ? "높이" : "거리"}</span></div><div><b>${esc(trail ? (item.end || "없음") : mountain ? (item.manager || "없음") : (item.duration || "없음"))}</b><span>${trail ? "도착점" : mountain ? "관리기관" : "예상시간"}</span></div><div><b>${item.source}</b><span>출처</span></div></div>${trailFacts}${!mountain && item.travelerInfo ? `<div class="caution"><b>여행자 안내</b><span>${esc(item.travelerInfo)}</span></div>` : ""}<button class="naver-link" data-naver-search="${esc(trail ? `${item.start} ${item.end}` : item.name)}">N 네이버 지도에서 검색<span>›</span></button>${!mountain && item.gpxPath ? `<button class="primary" data-gpx="${esc(item.gpxPath)}">GPX 경로 열기 <span>›</span></button>` : ""}<small class="fine">지도 경로는 2017년 공간데이터를 단순화한 참고용입니다. 산행 전 현장 통제·날씨·안전정보를 확인하세요.</small></aside></section>${bottomNav("search")}</main>`;
+}
+
+function loadNaverMaps() {
+  if (window.naver?.maps) return Promise.resolve();
+  if (naverMapsPromise) return naverMapsPromise;
+  naverMapsPromise = new Promise((resolve, reject) => {
+    const script = document.createElement("script");
+    script.src = `https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=${encodeURIComponent(NAVER_MAP_CLIENT_ID)}`;
+    script.async = true;
+    script.onload = resolve;
+    script.onerror = () => reject(new Error("네이버 지도 프로그램을 불러오지 못했습니다."));
+    document.head.appendChild(script);
+  });
+  return naverMapsPromise;
+}
+
+async function loadRoute(item) {
+  if (!routeCache.has(item.routeFile)) {
+    routeCache.set(item.routeFile, fetch(item.routeFile).then((response) => {
+      if (!response.ok) throw new Error("탐방로 좌표 파일을 찾을 수 없습니다.");
+      return response.json();
+    }));
+  }
+  const document = await routeCache.get(item.routeFile);
+  const route = document.routes?.[item.routeKey];
+  if (!route?.segments?.length) throw new Error("이 탐방로의 경로 좌표가 없습니다.");
+  return route;
+}
+
+async function initializeTrailMap(item) {
+  const container = document.getElementById("trail-map");
+  const mapState = document.getElementById("map-state");
+  if (!container || !mapState) return;
+  try {
+    const [route] = await Promise.all([loadRoute(item), loadNaverMaps()]);
+    if (state.selected?.id !== item.id || !document.getElementById("trail-map")) return;
+    const maps = window.naver.maps;
+    const points = route.segments.flat();
+    const centerPoint = item.center || { lat: points[0][0], lng: points[0][1] };
+    const map = new maps.Map(container, {
+      center: new maps.LatLng(centerPoint.lat, centerPoint.lng), zoom: 13,
+      zoomControl: true, mapTypeControl: true, scaleControl: true,
+    });
+    route.segments.forEach((segment) => {
+      if (segment.length < 2) return;
+      new maps.Polyline({
+        map,
+        path: segment.map(([lat, lng]) => new maps.LatLng(lat, lng)),
+        strokeColor: "#f56c3d", strokeWeight: 6, strokeOpacity: 0.95,
+        strokeLineCap: "round", strokeLineJoin: "round",
+      });
+    });
+    const first = route.segments[0][0];
+    const lastSegment = route.segments.at(-1);
+    const last = lastSegment.at(-1);
+    new maps.Marker({ map, position: new maps.LatLng(first[0], first[1]), title: `출발 · ${item.start || item.name}` });
+    new maps.Marker({ map, position: new maps.LatLng(last[0], last[1]), title: `도착 · ${item.end || item.name}` });
+    if (item.bounds && maps.LatLngBounds) {
+      const bounds = new maps.LatLngBounds(
+        new maps.LatLng(item.bounds.south, item.bounds.west),
+        new maps.LatLng(item.bounds.north, item.bounds.east),
+      );
+      map.fitBounds(bounds);
+    }
+    mapState.remove();
+  } catch (error) {
+    mapState.innerHTML = `<b>지도를 불러오지 못했습니다.</b><small>${esc(error.message)}<br>네이버 콘솔의 Web 서비스 URL도 확인해 주세요.</small>`;
+  }
 }
 
 function runSearch(query = state.query) {
@@ -115,7 +200,7 @@ function runSearch(query = state.query) {
       const name = item.name.toLocaleLowerCase("ko-KR");
       const region = item.region.toLocaleLowerCase("ko-KR");
       const regionWords = region.split(/[\s,·/()]+/).filter(Boolean);
-      const route = [item.start, item.via, item.end].filter(Boolean).join(" ").toLocaleLowerCase("ko-KR");
+      const route = [item.parkName, ...(item.regions || []), item.start, item.via, item.end].filter(Boolean).join(" ").toLocaleLowerCase("ko-KR");
       const rank = name === searchTerm ? 0
         : region === searchTerm || regionWords.includes(searchTerm) ? 1
         : region.includes(searchTerm) ? 2
@@ -132,11 +217,14 @@ function runSearch(query = state.query) {
 function render() {
   app.innerHTML = state.screen === "home" ? homeView() : state.screen === "detail" ? detailView() : searchView();
   window.scrollTo(0, 0);
+  if (state.screen === "detail" && state.selected?.kind === "trail" && state.selected.routeFile) {
+    requestAnimationFrame(() => initializeTrailMap(state.selected));
+  }
 }
 
 async function loadPublicData() {
   try {
-    const responses = await Promise.all([fetch("./mountains.json"), fetch("./walking-courses.json"), fetch("./national-park-trails.json")]);
+    const responses = await Promise.all([fetch("./mountains.json"), fetch("./walking-courses.json"), fetch("./national-park-courses.json")]);
     if (responses.some((response) => !response.ok)) throw new Error("JSON 파일을 찾을 수 없습니다.");
     const [mountainDocument, courseDocument, trailDocument] = await Promise.all(responses.map((response) => response.json()));
     state.mountains = (Array.isArray(mountainDocument) ? mountainDocument : mountainDocument.items || []).map(normalizeMountain);
