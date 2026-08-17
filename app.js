@@ -1,6 +1,6 @@
 "use strict";
 
-const NAVER_MAP_CLIENT_ID = "bsd3bg4vgo";
+const NAVER_MAP_CLIENT_ID = "x360a1z393";
 const app = document.getElementById("app");
 const state = { screen: "home", loading: true, error: "", query: "", type: "all", mountains: [], courses: [], trails: [], results: [], selected: null };
 let toastTimer;
