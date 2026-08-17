@@ -48,6 +48,7 @@ button { border: 0; background: none; color: inherit; font: inherit; cursor: poi
   border-radius: 10px 10px 14px 14px;
   background: var(--forest); color: var(--lime); font-size: 15px;
 }
+.brand-mark { font-size: 18px; }
 .weather { margin: auto; display: flex; align-items: center; gap: 10px; color: var(--muted); font-size: 12px; }
 .weather b { color: var(--ink); font-size: 17px; }
 .round { width: 42px; height: 42px; border: 1px solid var(--line); border-radius: 50%; }
@@ -86,6 +87,8 @@ button { border: 0; background: none; color: inherit; font: inherit; cursor: poi
   overflow: hidden; border: 1px solid var(--line); border-radius: 14px; background: white;
 }
 .mountain-visual { min-height: 330px; position: relative; overflow: hidden; background: #b6d4cb; }
+.club-visual img { width: 100%; height: 100%; position: absolute; inset: 0; object-fit: cover; object-position: center 55%; }
+.creator-credit { position: absolute; left: 16px; bottom: 14px; padding: 5px 8px; border-radius: 4px; background: #103c2bcc; color: white; font-size: 10px; font-weight: 800; letter-spacing: .06em; }
 .sun { position: absolute; top: 12%; right: 12%; width: 120px; height: 120px; border-radius: 50%; background: #f5d36e; }
 .ridge {
   position: absolute; left: -10%; bottom: -22%; width: 120%; height: 75%;

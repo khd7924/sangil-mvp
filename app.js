@@ -38,7 +38,7 @@ function toast(message) {
 }
 
 function header() {
-  return `<header class="topbar"><button class="brand" data-action="home"><span class="brand-mark">▲</span>산길</button><div class="weather"><span>전국 산·걷기길</span><b>${state.mountains.length.toLocaleString()}개 산</b><span>${state.courses.length.toLocaleString()}개 코스</span></div><button class="round" data-action="help" aria-label="도움말">?</button></header>`;
+  return `<header class="topbar"><button class="brand" data-action="home"><span class="brand-mark" aria-hidden="true">👣</span>두발로 구석구석</button><div class="weather"><span>전국 산·걷기길</span><b>${state.mountains.length.toLocaleString()}개 산</b><span>${state.courses.length.toLocaleString()}개 코스</span></div><button class="round" data-action="help" aria-label="도움말">?</button></header>`;
 }
 
 function bottomNav(active) {
@@ -51,7 +51,7 @@ function searchForm(compact = false) {
 
 function homeView() {
   const message = state.loading ? "전국 데이터를 불러오는 중입니다…" : state.error || `산림청 산 ${state.mountains.length.toLocaleString()}개와 두루누비 코스 ${state.courses.length.toLocaleString()}개를 검색할 수 있습니다.`;
-  return `<main class="app">${header()}<section class="hero"><span class="eyebrow">전국 산과 걷기길을 한곳에서</span><h1>오늘은,<br>어느 길로 갈까요?</h1><p>${esc(message)}</p>${searchForm()}<div class="quick"><button data-quick="북한산">북한산</button><button data-quick="지리산">지리산</button><button data-quick="설악산">설악산</button><button data-quick="제주">제주 걷기길</button></div></section><section class="section"><div class="section-title"><div><span>공공데이터 연결 완료</span><h2>전국 산길을 찾아보세요</h2></div></div><button class="mountain-card" data-action="search"><div class="mountain-visual"><div class="sun"></div><div class="ridge back"></div><div class="ridge"></div><span class="badge left">산림청 전국 산 정보</span><span class="badge right">두루누비 걷기 코스</span></div><div class="mountain-info"><span class="level">전국 검색</span><h3>${state.mountains.length.toLocaleString()}개 산</h3><p>산 이름과 지역으로 산림청의 상세정보를 검색하세요.</p><div class="facts"><div class="fact"><span>산 정보</span><b>${state.mountains.length.toLocaleString()}건</b></div><div class="fact"><span>걷기 코스</span><b>${state.courses.length.toLocaleString()}건</b></div><div class="fact"><span>출처</span><b>산림청·두루누비</b></div></div></div></button></section>${bottomNav("home")}</main>`;
+  return `<main class="app">${header()}<section class="hero"><span class="eyebrow">전국 산과 걷기길을 한곳에서</span><h1>오늘은,<br>어느 길로 갈까요?</h1><p>${esc(message)}</p>${searchForm()}<div class="quick"><button data-quick="북한산">북한산</button><button data-quick="지리산">지리산</button><button data-quick="설악산">설악산</button><button data-quick="제주">제주 걷기길</button></div></section><section class="section"><div class="section-title"><div><h2>전국 산길을 찾아보세요</h2></div></div><button class="mountain-card" data-action="search"><div class="mountain-visual club-visual"><img src="./home-hero.png" alt="초원 산책로에서 함께 걷는 두발로 구석구석 동호회원"><span class="badge left">산림청 전국 산 정보</span><span class="badge right">두루누비 걷기 코스</span><small class="creator-credit">by khd</small></div><div class="mountain-info"><span class="level">전국 검색</span><h3>${state.mountains.length.toLocaleString()}개 산</h3><p>산 이름과 지역으로 산림청의 상세정보를 검색하세요.</p><div class="facts"><div class="fact"><span>산 정보</span><b>${state.mountains.length.toLocaleString()}건</b></div><div class="fact"><span>걷기 코스</span><b>${state.courses.length.toLocaleString()}건</b></div><div class="fact"><span>출처</span><b>산림청·두루누비</b></div></div></div></button></section>${bottomNav("home")}</main>`;
 }
 
 function typeButtons() {
