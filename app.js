@@ -93,7 +93,7 @@ function render() {
 
 async function loadPublicData() {
   try {
-    const responses = await Promise.all([fetch("./data/mountains.json"), fetch("./data/walking-courses.json")]);
+    const responses = await Promise.all([fetch("./mountains.json"), fetch("./walking-courses.json")]);
     if (responses.some((response) => !response.ok)) throw new Error("JSON 파일을 찾을 수 없습니다.");
     const [mountainDocument, courseDocument] = await Promise.all(responses.map((response) => response.json()));
     state.mountains = (Array.isArray(mountainDocument) ? mountainDocument : mountainDocument.items || []).map(normalizeMountain);
