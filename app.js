@@ -60,7 +60,7 @@ function typeButtons() {
 
 function resultCard(item, index) {
   const mountain = item.kind === "mountain";
-  return `<button class="course" data-result="${esc(item.id)}"><div class="course-top"><span class="rank">${String(index + 1).padStart(2, "0")}</span><div class="course-main"><em>${mountain ? "산림청 산 정보" : "두루누비 걷기 코스"}</em><h3>${esc(item.name)}</h3><p>${esc(short(item.summary || item.region))}</p></div><span class="check">›</span></div><div class="metrics"><div><b>${esc(item.region)}</b><span>지역</span></div><div><b>${esc(mountain ? (item.height ? `${item.height}m` : "정보 없음") : (item.distance ? `${item.distance}km` : "정보 없음"))}</b><span>${mountain ? "높이" : "거리"}</span></div><div><b>${esc(mountain ? (item.manager || "산림청") : (item.duration || "정보 없음"))}</b><span>${mountain ? "관리기관" : "예상시간"}</span></div><div><b>${item.source}</b><span>출처</span></div></div></button>`;
+  return `<button class="course" data-result="${esc(item.id)}"><div class="course-top"><span class="rank">${String(index + 1).padStart(2, "0")}</span><div class="course-main"><em>${esc(item.region)} · ${mountain ? "산림청 산 정보" : "두루누비 걷기 코스"}</em><h3>${esc(item.name)}</h3><p>${esc(short(item.summary || item.region))}</p></div><span class="check">›</span></div><div class="metrics"><div><b>${esc(item.region)}</b><span>지역</span></div><div><b>${esc(mountain ? (item.height ? `${item.height}m` : "정보 없음") : (item.distance ? `${item.distance}km` : "정보 없음"))}</b><span>${mountain ? "높이" : "거리"}</span></div><div><b>${esc(mountain ? (item.manager || "산림청") : (item.duration || "정보 없음"))}</b><span>${mountain ? "관리기관" : "예상시간"}</span></div><div><b>${item.source}</b><span>출처</span></div></div></button>`;
 }
 
 function searchView() {
@@ -78,12 +78,23 @@ function detailView() {
 
 function runSearch(query = state.query) {
   state.query = clean(query);
-  const words = state.query.toLocaleLowerCase("ko-KR").split(/\s+/).filter(Boolean);
+  const searchTerm = state.query.toLocaleLowerCase("ko-KR");
   const pool = [...(state.type === "course" ? [] : state.mountains), ...(state.type === "mountain" ? [] : state.courses)];
-  state.results = words.length ? pool.filter((item) => {
-    const text = `${item.name} ${item.region} ${item.summary} ${item.details}`.toLocaleLowerCase("ko-KR");
-    return words.every((word) => text.includes(word));
-  }) : [];
+  state.results = searchTerm ? pool
+    .map((item) => {
+      const name = item.name.toLocaleLowerCase("ko-KR");
+      const region = item.region.toLocaleLowerCase("ko-KR");
+      const regionWords = region.split(/[\s,·/()]+/).filter(Boolean);
+      const rank = name === searchTerm ? 0
+        : region === searchTerm || regionWords.includes(searchTerm) ? 1
+        : region.includes(searchTerm) ? 2
+        : name.includes(searchTerm) ? 3
+        : -1;
+      return { item, rank };
+    })
+    .filter(({ rank }) => rank >= 0)
+    .sort((left, right) => left.rank - right.rank || left.item.name.localeCompare(right.item.name, "ko-KR"))
+    .map(({ item }) => item) : [];
 }
 
 function render() {
