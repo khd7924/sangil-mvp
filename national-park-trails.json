@@ -1,0 +1,7513 @@
+{
+  "source": "국립공원공단_탐방로_20240911.csv",
+  "updatedAt": "2024-09-11",
+  "itemCount": 834,
+  "items": [
+    {
+      "name": "의정부시도봉구경계~강북도봉구경계",
+      "start": "의정부시도봉구경계",
+      "via": "",
+      "end": "강북,도봉구경계",
+      "distanceMeters": 5560,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "송추IC~오봉탐방지원센터",
+      "start": "송추IC",
+      "via": "",
+      "end": "송추입구",
+      "distanceMeters": 1100,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원각사입구~의정부시청뒤",
+      "start": "원각사입구",
+      "via": "",
+      "end": "의정부시청뒤(안골)",
+      "distanceMeters": 4300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "시청IC~원도봉입구",
+      "start": "시청IC",
+      "via": "",
+      "end": "원도봉입구",
+      "distanceMeters": 3800,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "거북골~보문능선~도봉주능선",
+      "start": "거북골",
+      "via": "보문능선",
+      "end": "도봉주능선",
+      "distanceMeters": 900,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "성불사입구~천진사",
+      "start": "성불사입구",
+      "via": "",
+      "end": "천진사",
+      "distanceMeters": 100,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "오봉샘~오봉능선",
+      "start": "오봉샘",
+      "via": "",
+      "end": "오봉능선",
+      "distanceMeters": 400,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "도봉서원~산정약수터",
+      "start": "도봉서원",
+      "via": "",
+      "end": "산정약수터",
+      "distanceMeters": 200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "17. 영원사~삼불사~약수암",
+      "start": "영원사",
+      "via": "",
+      "end": "약수암",
+      "distanceMeters": 5700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "2. 의신마을~세석평전",
+      "start": "의신마을",
+      "via": "",
+      "end": "세석평전",
+      "distanceMeters": 8800,
+      "uphillMinutes": 360,
+      "downhillMinutes": 300
+    },
+    {
+      "name": "18. 도마마을~삼불사",
+      "start": "도마마을",
+      "via": "",
+      "end": "삼불사",
+      "distanceMeters": 1500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "19. 백무동~두지동",
+      "start": "백무동",
+      "via": "",
+      "end": "두지동",
+      "distanceMeters": 2700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "20. 대원교~숯가마터",
+      "start": "대원교",
+      "via": "",
+      "end": "숯가마터",
+      "distanceMeters": 1000,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "21. 중산리탐방안내소~자연관찰로",
+      "start": "중산리탐방안내소",
+      "via": "",
+      "end": "자연관찰로",
+      "distanceMeters": 1500,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "22. 삼성궁입구~상불재",
+      "start": "삼성궁입구",
+      "via": "",
+      "end": "상불재",
+      "distanceMeters": 1800,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "23. 신흥~의신옛길",
+      "start": "신흥",
+      "via": "",
+      "end": "의신옛길",
+      "distanceMeters": 3700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "25.연하천삼거리~삼각고지",
+      "start": "연하천삼거리",
+      "via": "",
+      "end": "삼각고지",
+      "distanceMeters": 2500,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "우이도탐방로",
+      "start": "상산봉",
+      "via": "",
+      "end": "대초리",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "영산도탐방로",
+      "start": "당산",
+      "via": "천박재",
+      "end": "작은재",
+      "distanceMeters": 3,
+      "uphillMinutes": 60,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "관매도탐방로",
+      "start": "샛배",
+      "via": "",
+      "end": "돈대봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "관매도탐방로",
+      "start": "관호마을",
+      "via": "",
+      "end": "벼락바위",
+      "distanceMeters": 4,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "관매도선착장",
+      "start": "관매선착장",
+      "via": "",
+      "end": "하늘다리",
+      "distanceMeters": 2,
+      "uphillMinutes": 45,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "하조도탐방로",
+      "start": "하조도등대",
+      "via": "신금산",
+      "end": "읍구",
+      "distanceMeters": 5,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "하조도탐방로",
+      "start": "산행",
+      "via": "돈대봉",
+      "end": "읍구",
+      "distanceMeters": 2,
+      "uphillMinutes": 45,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "천황사지구~도갑사",
+      "start": "천황사지구",
+      "via": "",
+      "end": "도갑사",
+      "distanceMeters": 8600,
+      "uphillMinutes": 150,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "구정봉~용암사지~홍계골",
+      "start": "구정봉",
+      "via": "용암사지(마애불)",
+      "end": "홍계골",
+      "distanceMeters": 3500,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "죽정~월대암",
+      "start": "죽정",
+      "via": "",
+      "end": "월대암",
+      "distanceMeters": 600,
+      "uphillMinutes": 50,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "하치마을~누릿재~사자저수지",
+      "start": "하치마을",
+      "via": "누릿재",
+      "end": "사자저수지",
+      "distanceMeters": 1600,
+      "uphillMinutes": 60,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "관매도탐방로",
+      "start": "관매습지",
+      "via": "독립문바위",
+      "end": "방아섬",
+      "distanceMeters": 3,
+      "uphillMinutes": 45,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "1.진두~덮을개(한산도망산)",
+      "start": "진두",
+      "via": "망산",
+      "end": "덮을개",
+      "distanceMeters": 7200,
+      "uphillMinutes": 210,
+      "downhillMinutes": 140
+    },
+    {
+      "name": "3.해금강~우제봉~석개해변(거제)",
+      "start": "해금강",
+      "via": "우제봉",
+      "end": "석개해변",
+      "distanceMeters": 1500,
+      "uphillMinutes": 45,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "4.야소~망산(한산도 망산)",
+      "start": "야소",
+      "via": "",
+      "end": "망산",
+      "distanceMeters": 2800,
+      "uphillMinutes": 80,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "5.소매물도~매물등대(소매물도)",
+      "start": "소매물도",
+      "via": "",
+      "end": "매물등대",
+      "distanceMeters": 1500,
+      "uphillMinutes": 45,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "7.선착장~해안선전망대(지심도)",
+      "start": "지심도선착장",
+      "via": "",
+      "end": "해안선전망대",
+      "distanceMeters": 1800,
+      "uphillMinutes": 54,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "8.당금마을~대항마을(매물도)",
+      "start": "당금마을",
+      "via": "장군봉",
+      "end": "대항마을",
+      "distanceMeters": 5200,
+      "uphillMinutes": 155,
+      "downhillMinutes": 103
+    },
+    {
+      "name": "9.제승당~염호리(한산도망산)",
+      "start": "제승당선착장",
+      "via": "",
+      "end": "염호리776번지",
+      "distanceMeters": 540,
+      "uphillMinutes": 24,
+      "downhillMinutes": 16
+    },
+    {
+      "name": "10.구조라선착장~구조라마을(거제)",
+      "start": "구조라선착장",
+      "via": "",
+      "end": "구조라마을",
+      "distanceMeters": 2000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "11.수정봉~구조라성(거제)",
+      "start": "수정봉",
+      "via": "",
+      "end": "구조라성",
+      "distanceMeters": 220,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "16.저구삼거리~망산~명사(거제)",
+      "start": "저구삼거리",
+      "via": "내봉산 망산",
+      "end": "명사",
+      "distanceMeters": 5800,
+      "uphillMinutes": 174,
+      "downhillMinutes": 115
+    },
+    {
+      "name": "학암포 자연관찰로",
+      "start": "학암포 주차장 화장실 맞은편",
+      "via": "학암포 A,B 습지",
+      "end": "학암포 B 해변",
+      "distanceMeters": 700,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "구천동자연관찰로",
+      "start": "덕유산응급구조대사무실",
+      "via": "",
+      "end": "인월담",
+      "distanceMeters": 1200,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "구기 자연관찰로",
+      "start": "구기분소",
+      "via": "",
+      "end": "구기분소~대남문 구간 2.2km",
+      "distanceMeters": 2,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "내소사자연관찰로",
+      "start": "내소사 일주문",
+      "via": "전나무숲",
+      "end": "내소사 사천왕문",
+      "distanceMeters": 1,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "하늘재~부봉~마패봉삼거리",
+      "start": "하늘재",
+      "via": "부봉",
+      "end": "마폐봉삼거리",
+      "distanceMeters": 8500,
+      "uphillMinutes": 300,
+      "downhillMinutes": 250
+    },
+    {
+      "name": "금수산삼거리~상학마을",
+      "start": "금수산삼거리",
+      "via": "",
+      "end": "상학마을",
+      "distanceMeters": 1,
+      "uphillMinutes": 80,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "관매도탐방로",
+      "start": "관호마을",
+      "via": "",
+      "end": "하늘다리",
+      "distanceMeters": 2,
+      "uphillMinutes": 45,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "흑산도 탐방로",
+      "start": "샘골",
+      "via": "어울림",
+      "end": "마리재",
+      "distanceMeters": 5,
+      "uphillMinutes": 90,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "관매도 탐방로",
+      "start": "장산편마을",
+      "via": "독립문바위",
+      "end": "방아섬",
+      "distanceMeters": 3,
+      "uphillMinutes": 50,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "상조도 탐방로",
+      "start": "도리산",
+      "via": "",
+      "end": "도리산전망대",
+      "distanceMeters": 0,
+      "uphillMinutes": 20,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "관매도 탐방로",
+      "start": "관호",
+      "via": "",
+      "end": "방아섬",
+      "distanceMeters": 4,
+      "uphillMinutes": 120,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "홍도 자연관찰로",
+      "start": "탐방로입구",
+      "via": "",
+      "end": "당집",
+      "distanceMeters": 0,
+      "uphillMinutes": 10,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "홍도 자연관찰로",
+      "start": "탐방로입구",
+      "via": "",
+      "end": "당집",
+      "distanceMeters": 0,
+      "uphillMinutes": 10,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "백운동~만물상~서성재",
+      "start": "백운동",
+      "via": "만물상",
+      "end": "서성재",
+      "distanceMeters": 3000,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "어의곡자연관찰로",
+      "start": "어의곡",
+      "via": "",
+      "end": "어의곡",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "어의곡자연관찰로",
+      "start": "어의곡",
+      "via": "",
+      "end": "어의곡",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "해탈교~상원사(선재길)",
+      "start": "월정사(해탈교)",
+      "via": "상원사",
+      "end": "상원사",
+      "distanceMeters": 10000,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "상원사-내면 명개리",
+      "start": "상원사",
+      "via": "두로령",
+      "end": "내면 명개리",
+      "distanceMeters": 12680,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "재백이고개",
+      "start": "내소사",
+      "via": "관음봉삼거리",
+      "end": "재백이고개",
+      "distanceMeters": 2100,
+      "uphillMinutes": 90,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "봉래곡",
+      "start": "내변산탐방지원센터",
+      "via": "실상사",
+      "end": "봉래곡삼거리",
+      "distanceMeters": 1400,
+      "uphillMinutes": 25,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "가마소",
+      "start": "가마소",
+      "via": "세봉삼거리",
+      "end": "내소사",
+      "distanceMeters": 4200,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "탐방로",
+      "start": "개암사",
+      "via": "",
+      "end": "우금암",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "바드재",
+      "start": "바드재",
+      "via": "옥녀봉",
+      "end": "용각봉삼거리",
+      "distanceMeters": 2,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "세봉",
+      "start": "관음봉",
+      "via": "세봉",
+      "end": "세봉삼거리",
+      "distanceMeters": 1700,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "굴바위",
+      "start": "내변산탐방지원센터",
+      "via": "가마소",
+      "end": "굴바위",
+      "distanceMeters": 7400,
+      "uphillMinutes": 190,
+      "downhillMinutes": 170
+    },
+    {
+      "name": "봉화봉",
+      "start": "격포항",
+      "via": "봉화봉",
+      "end": "군부대입구",
+      "distanceMeters": 1,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "회룡자연관찰로",
+      "start": "회룡사",
+      "via": "회룡1교량",
+      "end": "회룡사",
+      "distanceMeters": 700,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "쌍곡-자연관찰로",
+      "start": "쌍곡주차장",
+      "via": "쌍곡탐방지원센터",
+      "end": "야생화단지",
+      "distanceMeters": 1000,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "삼봉 자연관찰로(자전거)",
+      "start": "삼봉B",
+      "via": "",
+      "end": "기지포",
+      "distanceMeters": 0,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "조도 탐방로",
+      "start": "운림정",
+      "via": "신금산",
+      "end": "읍구",
+      "distanceMeters": 5,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "신륵사~신륵사삼거리",
+      "start": "신륵사",
+      "via": "",
+      "end": "신륵사삼거리",
+      "distanceMeters": 3,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "보덕암~보덕암삼거리(영봉)",
+      "start": "보덕암",
+      "via": "중봉",
+      "end": "보덕암삼거리",
+      "distanceMeters": 3700,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "내궁기마을~내궁기삼거리",
+      "start": "내궁기마을",
+      "via": "",
+      "end": "내궁기삼거리",
+      "distanceMeters": 1400,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "상천리~망덕봉~망덕봉삼거리",
+      "start": "상천리",
+      "via": "망덕봉",
+      "end": "망덕봉삼거리",
+      "distanceMeters": 3400,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "상천리~가은산~옥순대교",
+      "start": "상천리",
+      "via": "가은산",
+      "end": "옥순대교",
+      "distanceMeters": 7400,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "사문리자연관찰로",
+      "start": "사문리",
+      "via": "마패봉삼거리",
+      "end": "지릅재",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(희방주차장~연화봉)",
+      "start": "희방주차장",
+      "via": "",
+      "end": "연화봉",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "울산바위탐방로",
+      "start": "소공원",
+      "via": "흔들바위",
+      "end": "울산바위",
+      "distanceMeters": 4,
+      "uphillMinutes": 150,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "탐방로",
+      "start": "부곡 큰무레골",
+      "via": "",
+      "end": "비로봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 150,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "탐방로",
+      "start": "부곡큰무레골",
+      "via": "푯대봉",
+      "end": "비로봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 150,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "탐방로",
+      "start": "영원산성",
+      "via": "",
+      "end": "주능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 150,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "탐방로",
+      "start": "영원산성",
+      "via": "",
+      "end": "주능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 150,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "탐방로",
+      "start": "영원산성",
+      "via": "",
+      "end": "주능선",
+      "distanceMeters": 0,
+      "uphillMinutes": 150,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "탐방로",
+      "start": "영원산성",
+      "via": "능선",
+      "end": "주능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 150,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "탐방로",
+      "start": "예송",
+      "via": "",
+      "end": "예송",
+      "distanceMeters": 2,
+      "uphillMinutes": 240,
+      "downhillMinutes": 300
+    },
+    {
+      "name": "향일암~임포",
+      "start": "향일암",
+      "via": "",
+      "end": "임포",
+      "distanceMeters": 1200,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "덕포~연도남부길(소리도 등대)",
+      "start": "덕포",
+      "via": "",
+      "end": "연도남부길",
+      "distanceMeters": 3800,
+      "uphillMinutes": 100,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "덕촌~거문도등대",
+      "start": "덕촌",
+      "via": "",
+      "end": "거문도등대",
+      "distanceMeters": 4000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "거문리~영국군묘지",
+      "start": "거문리",
+      "via": "",
+      "end": "영국군묘지",
+      "distanceMeters": 1800,
+      "uphillMinutes": 80,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "보옥리~예송리",
+      "start": "보옥리",
+      "via": "격자봉",
+      "end": "예송리",
+      "distanceMeters": 4500,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "상서~매봉산",
+      "start": "상서",
+      "via": "",
+      "end": "매봉산",
+      "distanceMeters": 1300,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "보광암~연천봉",
+      "start": "보광암",
+      "via": "등운암",
+      "end": "연천봉",
+      "distanceMeters": 1800,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "이월리오수철장~갈대(소안도자연관찰로)",
+      "start": "이월리오수처리장",
+      "via": "",
+      "end": "갈대밭",
+      "distanceMeters": 2550,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "서도초교~녹산등대",
+      "start": "서도초교",
+      "via": "",
+      "end": "녹산등대",
+      "distanceMeters": 1500,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "예송~보옥",
+      "start": "예송",
+      "via": "",
+      "end": "보옥",
+      "distanceMeters": 5160,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "보옥",
+      "start": "보옥",
+      "via": "",
+      "end": "보옥",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "미라~맹선",
+      "start": "미라",
+      "via": "가학산",
+      "end": "맹선",
+      "distanceMeters": 5000,
+      "uphillMinutes": 150,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "신리~산동정(상산뾰족봉)",
+      "start": "신리",
+      "via": "",
+      "end": "산동정",
+      "distanceMeters": 780,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "꽃머리산입구~전망대",
+      "start": "꽃머리산입구",
+      "via": "",
+      "end": "전망대",
+      "distanceMeters": 1000,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "운마산입구~전망대",
+      "start": "운마산",
+      "via": "",
+      "end": "전망대",
+      "distanceMeters": 600,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "용두~함구미(유송리)",
+      "start": "용두",
+      "via": "",
+      "end": "함구미",
+      "distanceMeters": 1400,
+      "uphillMinutes": 70,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "굴등~직포(두모리)",
+      "start": "굴등",
+      "via": "",
+      "end": "직포",
+      "distanceMeters": 500,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "작은짝지~부꾸지(구계등)",
+      "start": "작은짝지",
+      "via": "",
+      "end": "부꾸지",
+      "distanceMeters": 4500,
+      "uphillMinutes": 90,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "함구미~옥녀봉(대부산)",
+      "start": "함구미",
+      "via": "옥녀봉",
+      "end": "검바위",
+      "distanceMeters": 10,
+      "uphillMinutes": 270,
+      "downhillMinutes": 270
+    },
+    {
+      "name": "여천~삼거리",
+      "start": "여천",
+      "via": "",
+      "end": "삼거리",
+      "distanceMeters": 900,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주차장~봉래산~주차장",
+      "start": "주차장",
+      "via": "봉래산",
+      "end": "주차장",
+      "distanceMeters": 6500,
+      "uphillMinutes": 170,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "곡수당~큰길재",
+      "start": "곡수당",
+      "via": "",
+      "end": "큰길재",
+      "distanceMeters": 1800,
+      "uphillMinutes": 80,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "장지~망산",
+      "start": "장지",
+      "via": "",
+      "end": "망산",
+      "distanceMeters": 1500,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "청별~큰길재",
+      "start": "청별",
+      "via": "",
+      "end": "큰길재",
+      "distanceMeters": 4500,
+      "uphillMinutes": 200,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "구계등~짝지(자연관찰로)",
+      "start": "구계등",
+      "via": "",
+      "end": "짝지",
+      "distanceMeters": 1200,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "성두~삼거리",
+      "start": "성두",
+      "via": "",
+      "end": "하산길삼거리",
+      "distanceMeters": 1500,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "권덕~범바위",
+      "start": "권덕",
+      "via": "",
+      "end": "범바위",
+      "distanceMeters": 1500,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "17.홍포마을~해미장골등(거제)",
+      "start": "홍포마을",
+      "via": "",
+      "end": "해미장골등",
+      "distanceMeters": 500,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "18.여차마을~여차등(거제)",
+      "start": "여차마을",
+      "via": "",
+      "end": "여차등",
+      "distanceMeters": 500,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "19.학동고개~정상~저구삼거리(거제)",
+      "start": "학동고개",
+      "via": "가라산정상",
+      "end": "저구삼거리",
+      "distanceMeters": 8800,
+      "uphillMinutes": 264,
+      "downhillMinutes": 175
+    },
+    {
+      "name": "20.뫼바위~조밭골~학동(거제)",
+      "start": "뫼바위",
+      "via": "조밭골",
+      "end": "학동",
+      "distanceMeters": 900,
+      "uphillMinutes": 27,
+      "downhillMinutes": 27
+    },
+    {
+      "name": "21.진마이재~내촐(거제)",
+      "start": "진마이재",
+      "via": "",
+      "end": "뇌촐(내촐)",
+      "distanceMeters": 1300,
+      "uphillMinutes": 39,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "22.가라산정상~다대저수지상부(거제)",
+      "start": "가라산정상",
+      "via": "",
+      "end": "다대저수지상부",
+      "distanceMeters": 1200,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "23.학동고개~구조라마을(거제)",
+      "start": "학동고개",
+      "via": "",
+      "end": "구조라마을",
+      "distanceMeters": 12000,
+      "uphillMinutes": 360,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "24.양화삼거리~양화마을(거제)",
+      "start": "양화삼거리",
+      "via": "",
+      "end": "양화마을",
+      "distanceMeters": 1000,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "25.동부정수장~망치마을(거제)",
+      "start": "동부정수장",
+      "via": "",
+      "end": "망치마을",
+      "distanceMeters": 800,
+      "uphillMinutes": 24,
+      "downhillMinutes": 16
+    },
+    {
+      "name": "26.망양삼거리~망양마을(거제)",
+      "start": "망양삼거리",
+      "via": "",
+      "end": "망양마을",
+      "distanceMeters": 800,
+      "uphillMinutes": 24,
+      "downhillMinutes": 16
+    },
+    {
+      "name": "27.U2기지초입부~서이말등대(거제)",
+      "start": "U2기지초입부",
+      "via": "",
+      "end": "서이말등대",
+      "distanceMeters": 3800,
+      "uphillMinutes": 115,
+      "downhillMinutes": 75
+    },
+    {
+      "name": "28.예구마을~예구삼거리(거제)",
+      "start": "예구마을",
+      "via": "",
+      "end": "예구삼거리",
+      "distanceMeters": 1000,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "29.일운봉수대~일운망삼거리(거제)",
+      "start": "일운봉수대삼거리",
+      "via": "",
+      "end": "일운망산삼거리",
+      "distanceMeters": 1000,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "30.공고지초입~서이말삼거리(거제)",
+      "start": "공고지초입",
+      "via": "",
+      "end": "서이말삼거리",
+      "distanceMeters": 3000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "31.바람의언덕~해금강(거제)",
+      "start": "바람의언덕",
+      "via": "",
+      "end": "해금강",
+      "distanceMeters": 1900,
+      "uphillMinutes": 50,
+      "downhillMinutes": 35
+    },
+    {
+      "name": "32.산양읍~희망봉~달아(미륵도)",
+      "start": "산양읍",
+      "via": "희망봉",
+      "end": "달아",
+      "distanceMeters": 4500,
+      "uphillMinutes": 135,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "33.봉전소류지~답하~화양초교(산양)",
+      "start": "봉전소류지",
+      "via": "답하",
+      "end": "화양초교",
+      "distanceMeters": 3000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "34.외항선착장~선유대~해변(비진도)",
+      "start": "외항선착장",
+      "via": "선유대",
+      "end": "외항선착장",
+      "distanceMeters": 3000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "35.소매물도마을~분교(소매물도)",
+      "start": "소매물도마을",
+      "via": "",
+      "end": "분교",
+      "distanceMeters": 1600,
+      "uphillMinutes": 50,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "36.연대마을~봉수대~해변(연대도)",
+      "start": "연대마을",
+      "via": "봉수대",
+      "end": "연대해변",
+      "distanceMeters": 2300,
+      "uphillMinutes": 70,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "주전골입구~오색흔들바위",
+      "start": "주전골",
+      "via": "",
+      "end": "오색흔들바위",
+      "distanceMeters": 800,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "소고포~대촌삼거리(한산도망산)",
+      "start": "소고포",
+      "via": "",
+      "end": "대촌삼거리",
+      "distanceMeters": 1200,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "청련사~내기사",
+      "start": "청련사",
+      "via": "왕거암-먹구등",
+      "end": "내기사",
+      "distanceMeters": 9500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "갓바위골입구~대궐령",
+      "start": "갓바위골입구",
+      "via": "",
+      "end": "대궐령",
+      "distanceMeters": 2000,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "가메봉~왕거암",
+      "start": "가메봉",
+      "via": "",
+      "end": "왕거암",
+      "distanceMeters": 1800,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "오색약수터~망경대",
+      "start": "오색약수터",
+      "via": "",
+      "end": "망경대",
+      "distanceMeters": 600,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "금은광이정상~먹구등",
+      "start": "금은광이",
+      "via": "두수람",
+      "end": "먹구등",
+      "distanceMeters": 2400,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "제12타방로(태행산탐방로)",
+      "start": "대둔산",
+      "via": "",
+      "end": "태행산",
+      "distanceMeters": 6,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "곰배골입구~강선리",
+      "start": "곰배골입구",
+      "via": "곰배령",
+      "end": "강선리",
+      "distanceMeters": 6500,
+      "uphillMinutes": 200,
+      "downhillMinutes": 200
+    },
+    {
+      "name": "대둔산입구~태행산",
+      "start": "대둔산입구",
+      "via": "",
+      "end": "태행산",
+      "distanceMeters": 6000,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "단목령~곰배령",
+      "start": "단목령",
+      "via": "점봉산",
+      "end": "곰배령",
+      "distanceMeters": 9500,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "둔골~월외폭포",
+      "start": "둔골",
+      "via": "도토메기",
+      "end": "월외폭포",
+      "distanceMeters": 3500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "칼등고개~가메봉",
+      "start": "칼등고개",
+      "via": "",
+      "end": "가메봉",
+      "distanceMeters": 3200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "대둔산정상~두고개",
+      "start": "대둔산정상",
+      "via": "",
+      "end": "두고개",
+      "distanceMeters": 4500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "병곡~동엽령",
+      "start": "병곡",
+      "via": "",
+      "end": "동엽령",
+      "distanceMeters": 4,
+      "uphillMinutes": 120,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "양악~월성재",
+      "start": "양악",
+      "via": "",
+      "end": "월성재",
+      "distanceMeters": 4000,
+      "uphillMinutes": 150,
+      "downhillMinutes": 130
+    },
+    {
+      "name": "탐방로(연화봉~비로봉)",
+      "start": "연화봉",
+      "via": "제1연화봉",
+      "end": "비로봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(비로봉~국망봉)",
+      "start": "비로봉",
+      "via": "",
+      "end": "국망봉",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(달밭골~초암사)",
+      "start": "달밭골",
+      "via": "",
+      "end": "초암사",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(점마~하좌석)",
+      "start": "점마",
+      "via": "",
+      "end": "하좌석",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "구룡주차장",
+      "via": "비로봉~상원사",
+      "end": "성남공원지킴터",
+      "distanceMeters": 21,
+      "uphillMinutes": 540,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(희방2주차장~의풍리)",
+      "start": "희방제2주차장",
+      "via": "국망봉",
+      "end": "의풍리",
+      "distanceMeters": 23,
+      "uphillMinutes": 600,
+      "downhillMinutes": 540
+    },
+    {
+      "name": "탐방로(삼가~비로봉)",
+      "start": "삼가",
+      "via": "양반바위",
+      "end": "비로봉",
+      "distanceMeters": 6,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "탐방로(초암사~국망봉)",
+      "start": "초암사",
+      "via": "봉두암",
+      "end": "국망봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "탐방로(연화동~연화동삼거리)",
+      "start": "연화동",
+      "via": "",
+      "end": "연화동삼거리",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(국망봉~늦은목이)",
+      "start": "국망봉",
+      "via": "고치령",
+      "end": "늦은목이",
+      "distanceMeters": 25,
+      "uphillMinutes": 540,
+      "downhillMinutes": 510
+    },
+    {
+      "name": "12.천동~천동삼거리",
+      "start": "다리안관광지",
+      "via": "천동쉼터",
+      "end": "천동삼거리",
+      "distanceMeters": 6200,
+      "uphillMinutes": 170,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "13.어의곡~어의곡삼거리",
+      "start": "어의곡주차장",
+      "via": "어의곡탐방지원센터",
+      "end": "어의곡삼거리",
+      "distanceMeters": 4200,
+      "uphillMinutes": 130,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "남천",
+      "start": "남천",
+      "via": "",
+      "end": "마당치",
+      "distanceMeters": 7700,
+      "uphillMinutes": 230,
+      "downhillMinutes": 170
+    },
+    {
+      "name": "14.죽령~연화봉",
+      "start": "죽령휴게소",
+      "via": "제2연화봉, 천문대",
+      "end": "연화봉",
+      "distanceMeters": 7000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "16.묘적령~죽령",
+      "start": "묘적령",
+      "via": "도솔봉",
+      "end": "죽령",
+      "distanceMeters": 8600,
+      "uphillMinutes": 180,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "천황사~통천문삼거리",
+      "start": "천황사",
+      "via": "",
+      "end": "통천문삼거리",
+      "distanceMeters": 2600,
+      "uphillMinutes": 120,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "산성대입구~광암터",
+      "start": "산성대입구",
+      "via": "",
+      "end": "광암터",
+      "distanceMeters": 2600,
+      "uphillMinutes": 180,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "금릉경포대~바람재",
+      "start": "금릉경포대",
+      "via": "",
+      "end": "바람재",
+      "distanceMeters": 2200,
+      "uphillMinutes": 90,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "무위사~미왕재",
+      "start": "무위사",
+      "via": "",
+      "end": "미왕재",
+      "distanceMeters": 2000,
+      "uphillMinutes": 70,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "경포대삼거리~종주능선",
+      "start": "경포대삼거리",
+      "via": "",
+      "end": "종주능선",
+      "distanceMeters": 1500,
+      "uphillMinutes": 60,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "천황주차장~탑동약수터",
+      "start": "천황주차장",
+      "via": "",
+      "end": "탑동약수터",
+      "distanceMeters": 900,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "천황자연관찰로",
+      "start": "천황조경휴게지내",
+      "via": "",
+      "end": "천황조경휴게지내",
+      "distanceMeters": 1000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "도갑자연관찰로",
+      "start": "도선수미비",
+      "via": "대나무숲(상전앞길)-도갑계곡(탐방로)-습지",
+      "end": "도선수미비",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "무위사자연관찰로",
+      "start": "무위사산진각",
+      "via": "폐평지,습지(억새밭가는길)-동백군락지",
+      "end": "무위사",
+      "distanceMeters": 1,
+      "uphillMinutes": 60,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원암",
+      "start": "원암",
+      "via": "직소",
+      "end": "남여치",
+      "distanceMeters": 7800,
+      "uphillMinutes": 240,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "내소사",
+      "via": "직소",
+      "end": "백천대",
+      "distanceMeters": 6100,
+      "uphillMinutes": 220,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "서운부락",
+      "via": "와룡소",
+      "end": "내소사",
+      "distanceMeters": 6000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "개암사",
+      "via": "상여봉",
+      "end": "가마소",
+      "distanceMeters": 8600,
+      "uphillMinutes": 290,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "선바우골",
+      "via": "",
+      "end": "관음봉",
+      "distanceMeters": 1800,
+      "uphillMinutes": 60,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "실상사골",
+      "via": "",
+      "end": "갑남산",
+      "distanceMeters": 7000,
+      "uphillMinutes": 240,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "갑을치",
+      "via": "갑남산",
+      "end": "유유동",
+      "distanceMeters": 7000,
+      "uphillMinutes": 240,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "광륜사~은석암",
+      "start": "광륜사",
+      "via": "",
+      "end": "은석암",
+      "distanceMeters": 1750,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "녹야원입구~다락능선",
+      "start": "녹야원입구",
+      "via": "",
+      "end": "다락능선",
+      "distanceMeters": 1840,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "통일교~도봉대피소~다락능선",
+      "start": "통일교",
+      "via": "도봉대피소",
+      "end": "다락능선",
+      "distanceMeters": 2020,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "도봉대피소~마당바위~주봉",
+      "start": "도봉대피소",
+      "via": "마당바위",
+      "end": "주봉",
+      "distanceMeters": 1660,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "성도원상단~관음암~도봉주능선",
+      "start": "성도원상단",
+      "via": "관음암",
+      "end": "도봉주능선",
+      "distanceMeters": 1200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "도봉서원~거북골~도봉주능선",
+      "start": "도봉서원",
+      "via": "거북골",
+      "end": "도봉주능선",
+      "distanceMeters": 2640,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "통일교~보문능선~우이암능선",
+      "start": "통일교",
+      "via": "보문능선",
+      "end": "우이암능선",
+      "distanceMeters": 2660,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "포대입구~도봉주능선~우이암",
+      "start": "포대입구",
+      "via": "도봉주능선",
+      "end": "우이암",
+      "distanceMeters": 2200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "무수골~원통사~우이암",
+      "start": "무수골",
+      "via": "원통사",
+      "end": "우이암",
+      "distanceMeters": 2200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "송추~사패능선",
+      "start": "송추",
+      "via": "",
+      "end": "사패능선",
+      "distanceMeters": 1800,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "사패산~사패능선~포대능선",
+      "start": "사패산",
+      "via": "사패능선",
+      "end": "포대능선",
+      "distanceMeters": 3200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "안골~사패산",
+      "start": "안골",
+      "via": "",
+      "end": "사패산",
+      "distanceMeters": 2200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "회룡골~사패능선",
+      "start": "회룡골",
+      "via": "",
+      "end": "사패능선",
+      "distanceMeters": 3300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "안말~체력단련장",
+      "start": "안말",
+      "via": "",
+      "end": "체력단련장",
+      "distanceMeters": 1200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원도봉~체력단련장~포대능선",
+      "start": "원도봉",
+      "via": "체력단련장",
+      "end": "포대능선",
+      "distanceMeters": 2200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원도봉~덕재샘~포대능선",
+      "start": "원도봉",
+      "via": "덕재샘",
+      "end": "포대능선",
+      "distanceMeters": 2200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원도봉~다락능선~포대능선",
+      "start": "원도봉",
+      "via": "다락능선",
+      "end": "포대능선",
+      "distanceMeters": 2600,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "주등산로",
+      "start": "구기터널",
+      "via": "불광사능선",
+      "end": "비봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 100,
+      "downhillMinutes": 80
+    },
+    {
+      "name": "주등산로",
+      "start": "산성분소",
+      "via": "수영장",
+      "end": "상운사",
+      "distanceMeters": 2,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "주등산로",
+      "start": "용암사입구",
+      "via": "의상능선",
+      "end": "문수봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 75,
+      "downhillMinutes": 65
+    },
+    {
+      "name": "주등산로",
+      "start": "삼천리골입구",
+      "via": "",
+      "end": "문수봉",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "주등산로",
+      "start": "진관사입구",
+      "via": "",
+      "end": "비봉",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "7. 유평~천왕봉",
+      "start": "유평",
+      "via": "치밭목",
+      "end": "천왕봉",
+      "distanceMeters": 10200,
+      "uphillMinutes": 390,
+      "downhillMinutes": 300
+    },
+    {
+      "name": "5. 중산리~천왕봉",
+      "start": "중산리",
+      "via": "법계사",
+      "end": "천왕봉",
+      "distanceMeters": 5400,
+      "uphillMinutes": 240,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "6. 법계교~순두류~법계사",
+      "start": "법계교",
+      "via": "순두류",
+      "end": "법계사",
+      "distanceMeters": 5800,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "3. 거림~1400고지",
+      "start": "거림",
+      "via": "",
+      "end": "1400고지",
+      "distanceMeters": 5000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 130
+    },
+    {
+      "name": "10. 백무동~장터목",
+      "start": "백무동",
+      "via": "참샘",
+      "end": "장터목",
+      "distanceMeters": 5800,
+      "uphillMinutes": 210,
+      "downhillMinutes": 140
+    },
+    {
+      "name": "11. 백무동~세석평전",
+      "start": "백무동",
+      "via": "",
+      "end": "세석평전",
+      "distanceMeters": 6500,
+      "uphillMinutes": 240,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "탐방로",
+      "start": "대성",
+      "via": "",
+      "end": "세석평전",
+      "distanceMeters": 9,
+      "uphillMinutes": 270,
+      "downhillMinutes": 210
+    },
+    {
+      "name": "4. 칼바위~장터목",
+      "start": "칼바위",
+      "via": "",
+      "end": "장터목",
+      "distanceMeters": 4000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "9. 추성동~천왕봉",
+      "start": "추성동",
+      "via": "",
+      "end": "천왕봉",
+      "distanceMeters": 9200,
+      "uphillMinutes": 540,
+      "downhillMinutes": 420
+    },
+    {
+      "name": "노고단고개~천왕봉",
+      "start": "노고단고개",
+      "via": "연하천",
+      "end": "천왕봉",
+      "distanceMeters": 20500,
+      "uphillMinutes": 330,
+      "downhillMinutes": 330
+    },
+    {
+      "name": "15. 쌍계사~불일폭포~삼신봉",
+      "start": "쌍계사",
+      "via": "불일폭포",
+      "end": "삼신봉",
+      "distanceMeters": 9000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "14. 청학동~삼신봉~갈림길",
+      "start": "청학동",
+      "via": "",
+      "end": "갈림길",
+      "distanceMeters": 7700,
+      "uphillMinutes": 300,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "8. 새재~삼거리",
+      "start": "새재",
+      "via": "",
+      "end": "삼거리",
+      "distanceMeters": 3000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "12. 의신~벽소령",
+      "start": "의신(하동)",
+      "via": "",
+      "end": "벽소령",
+      "distanceMeters": 6800,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "13. 음정~벽소령",
+      "start": "음정(함양)",
+      "via": "",
+      "end": "벽소령",
+      "distanceMeters": 5000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "가내소~장터목",
+      "start": "가내소",
+      "via": "",
+      "end": "장터목(한신지계곡)",
+      "distanceMeters": 4,
+      "uphillMinutes": 180,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "16. 범왕교~토끼봉",
+      "start": "범왕교",
+      "via": "",
+      "end": "토끼봉",
+      "distanceMeters": 4900,
+      "uphillMinutes": 180,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "탐방로",
+      "start": "뱀사골정상",
+      "via": "",
+      "end": "연하천",
+      "distanceMeters": 6,
+      "uphillMinutes": 120,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "1.화엄사~무넹기",
+      "start": "화엄사",
+      "via": "중재",
+      "end": "무넹기",
+      "distanceMeters": 7000,
+      "uphillMinutes": 230,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "탐방로",
+      "start": "성삼재",
+      "via": "노고단고개",
+      "end": "노고단정상",
+      "distanceMeters": 5,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "2.직전마을~피아골삼거리",
+      "start": "직전마을",
+      "via": "피아골대피소",
+      "end": "피아골삼거리",
+      "distanceMeters": 6000,
+      "uphillMinutes": 210,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "노고단고개~삼도봉",
+      "start": "노고단고개",
+      "via": "임걸령",
+      "end": "삼도봉",
+      "distanceMeters": 6,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "3.만복대~성삼재",
+      "start": "만복대",
+      "via": "당동고개",
+      "end": "성삼재",
+      "distanceMeters": 5300,
+      "uphillMinutes": 240,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "금산입구~정상",
+      "start": "금산입구",
+      "via": "보리암",
+      "end": "정상",
+      "distanceMeters": 2200,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "탐방로",
+      "start": "두모계곡",
+      "via": "",
+      "end": "금산정상",
+      "distanceMeters": 3,
+      "uphillMinutes": 110,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "속리-탐방로(세심정~문장대)",
+      "start": "세심정",
+      "via": "보현재",
+      "end": "문장대",
+      "distanceMeters": 3300,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "속리-탐방로(법주사~세심정~신선대)",
+      "start": "법주사",
+      "via": "세심정",
+      "end": "신선대",
+      "distanceMeters": 5600,
+      "uphillMinutes": 100,
+      "downhillMinutes": 85
+    },
+    {
+      "name": "속리-탐방로(세심정~도화리)",
+      "start": "세심정",
+      "via": "천왕봉",
+      "end": "도화리",
+      "distanceMeters": 8500,
+      "uphillMinutes": 210,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "탐방로",
+      "start": "천황봉",
+      "via": "묘봉",
+      "end": "민판동",
+      "distanceMeters": 7,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "화북-탐방로(오송~문장대~묘봉)",
+      "start": "오송",
+      "via": "문장대",
+      "end": "묘봉",
+      "distanceMeters": 7000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "화북-탐방로(장각동~천왕봉~문장대)",
+      "start": "장각동",
+      "via": "천왕봉",
+      "end": "문장대",
+      "distanceMeters": 6500,
+      "uphillMinutes": 180,
+      "downhillMinutes": 160
+    },
+    {
+      "name": "화양-탐방로(학소대~첨성대)",
+      "start": "학소대",
+      "via": "도명산",
+      "end": "첨성대",
+      "distanceMeters": 6000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "화양-탐방로(사담리~낙영산~도명산)",
+      "start": "사담리",
+      "via": "낙영산",
+      "end": "도명산",
+      "distanceMeters": 6500,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "탐방로",
+      "start": "떡바위",
+      "via": "",
+      "end": "쌍곡폭포",
+      "distanceMeters": 8,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "쌍곡-탐방로(소금강~군자산~도마골)",
+      "start": "소금강",
+      "via": "군자산",
+      "end": "도마골",
+      "distanceMeters": 6500,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "쌍곡-탐방로(절말~장성봉~제수리재)",
+      "start": "쌍곡폭포",
+      "via": "장성봉",
+      "end": "제수리재",
+      "distanceMeters": 12000,
+      "uphillMinutes": 150,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "탐방로",
+      "start": "장성봉",
+      "via": "",
+      "end": "상고암",
+      "distanceMeters": 1,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "탐방로",
+      "start": "매표소",
+      "via": "",
+      "end": "세심정",
+      "distanceMeters": 5,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "속리-탐방로(천왕봉~형제봉)",
+      "start": "천왕봉",
+      "via": "",
+      "end": "형제봉",
+      "distanceMeters": 7100,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "화북-탐방로(용화~북가치~민판동)",
+      "start": "용화지구",
+      "via": "북가치",
+      "end": "민판동",
+      "distanceMeters": 7000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "화양-탐방로(선유동~제비소)",
+      "start": "선유동",
+      "via": "",
+      "end": "제비소",
+      "distanceMeters": 1800,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "탐방로",
+      "start": "북가치",
+      "via": "묘봉",
+      "end": "민판동",
+      "distanceMeters": 7,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "구암사입구~백양계곡",
+      "start": "구암사",
+      "via": "무덤갈림길",
+      "end": "백양계곡",
+      "distanceMeters": 1400,
+      "uphillMinutes": 90,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "백양사~남경산기도원",
+      "start": "백양사",
+      "via": "능선사거리-몽계폭포",
+      "end": "남경산기도원",
+      "distanceMeters": 6200,
+      "uphillMinutes": 180,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "전대수련원~은선골삼거리",
+      "start": "전대수련원",
+      "via": "갓바위",
+      "end": "은선골삼거리",
+      "distanceMeters": 8300,
+      "uphillMinutes": 210,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "약사암입구~가인마을",
+      "start": "백양사비자림",
+      "via": "백학봉-상왕봉-사자봉-청류암",
+      "end": "가인마을",
+      "distanceMeters": 7500,
+      "uphillMinutes": 245,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "입암계곡코스",
+      "via": "",
+      "end": "입암산성코스",
+      "distanceMeters": 2,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "운문암갈림길~옹달샘갈림길",
+      "start": "운문암갈림길",
+      "via": "",
+      "end": "옹달샘갈림길",
+      "distanceMeters": 600,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "1.반선~화개재",
+      "start": "반선",
+      "via": "",
+      "end": "화개재",
+      "distanceMeters": 9200,
+      "uphillMinutes": 300,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "2.쟁기소~삼도봉삼거리",
+      "start": "쟁기소",
+      "via": "반야봉",
+      "end": "삼도봉삼거리",
+      "distanceMeters": 8500,
+      "uphillMinutes": 240,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "4.만복대~운봉아래",
+      "start": "만복대",
+      "via": "정령치",
+      "end": "운봉아래",
+      "distanceMeters": 13700,
+      "uphillMinutes": 220,
+      "downhillMinutes": 230
+    },
+    {
+      "name": "3.고기리~고리봉",
+      "start": "고기리",
+      "via": "",
+      "end": "고리봉",
+      "distanceMeters": 3200,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "닭이봉",
+      "start": "기타(격포닭이봉)",
+      "via": "",
+      "end": "닭이봉",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "상서",
+      "via": "",
+      "end": "매봉산",
+      "distanceMeters": 2,
+      "uphillMinutes": 120,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "임포",
+      "via": "",
+      "end": "임포",
+      "distanceMeters": 1,
+      "uphillMinutes": 80,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "연도",
+      "via": "",
+      "end": "소리도등대",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "변촌",
+      "via": "",
+      "end": "거문도등대",
+      "distanceMeters": 5,
+      "uphillMinutes": 150,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "거문리",
+      "via": "",
+      "end": "뒷산",
+      "distanceMeters": 1,
+      "uphillMinutes": 50,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "보옥리",
+      "via": "예송리",
+      "end": "하한대",
+      "distanceMeters": 4,
+      "uphillMinutes": 240,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "허득상가~상왕봉",
+      "start": "허득상가",
+      "via": "해인사",
+      "end": "상왕봉",
+      "distanceMeters": 5300,
+      "uphillMinutes": 150,
+      "downhillMinutes": 110
+    },
+    {
+      "name": "탐방로",
+      "start": "해인사",
+      "via": "",
+      "end": "마애불입상",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "치인~남산제일봉",
+      "start": "치인리",
+      "via": "",
+      "end": "남산제일봉",
+      "distanceMeters": 2600,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "백운동~상왕봉",
+      "start": "백운동시설지",
+      "via": "서성재",
+      "end": "상왕봉",
+      "distanceMeters": 4300,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "5.구룡삼곡~구룡폭포",
+      "start": "육모정",
+      "via": "",
+      "end": "구룡폭포",
+      "distanceMeters": 3100,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "탐방로",
+      "start": "세렴폭포",
+      "via": "",
+      "end": "비로삼거리",
+      "distanceMeters": 2,
+      "uphillMinutes": 120,
+      "downhillMinutes": 110
+    },
+    {
+      "name": "탐방로",
+      "start": "곧은재",
+      "via": "",
+      "end": "부곡공원지킴터",
+      "distanceMeters": 4,
+      "uphillMinutes": 180,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "탐방로",
+      "start": "곧은재공원지킴터",
+      "via": "",
+      "end": "곧은재",
+      "distanceMeters": 2,
+      "uphillMinutes": 120,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "탐방로",
+      "start": "금대야영장",
+      "via": "",
+      "end": "상원사",
+      "distanceMeters": 5,
+      "uphillMinutes": 150,
+      "downhillMinutes": 110
+    },
+    {
+      "name": "탐방로",
+      "start": "국형사",
+      "via": "보문사",
+      "end": "향로봉삼거리",
+      "distanceMeters": 2,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "탐방로",
+      "start": "윗황골",
+      "via": "입석대",
+      "end": "황골능선",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "구천동탐방지원센터~영각공원지킴터",
+      "start": "구천동탐방지원센터,매표소",
+      "via": "향적봉",
+      "end": "영각탐방지원센터,매표소",
+      "distanceMeters": 26000,
+      "uphillMinutes": 840,
+      "downhillMinutes": 840
+    },
+    {
+      "name": "서창공원지킴터~안국사",
+      "start": "서창탐방지원센터,매표소",
+      "via": "장도바위",
+      "end": "안국사",
+      "distanceMeters": 3800,
+      "uphillMinutes": 120,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "안성탐방지원센터~동엽령",
+      "start": "안성탐방지원센터,매표소",
+      "via": "칠연삼거리",
+      "end": "동엽령",
+      "distanceMeters": 4400,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "송계사~백암봉",
+      "start": "송계사",
+      "via": "횡경재",
+      "end": "백암봉",
+      "distanceMeters": 6500,
+      "uphillMinutes": 200,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "백련사~중봉",
+      "start": "백련사",
+      "via": "오수자굴",
+      "end": "중봉",
+      "distanceMeters": 4000,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "황점~삿갓골재",
+      "start": "황점",
+      "via": "",
+      "end": "삿갓골재",
+      "distanceMeters": 3400,
+      "uphillMinutes": 110,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "황점~월성재",
+      "start": "황점",
+      "via": "",
+      "end": "월성재",
+      "distanceMeters": 2600,
+      "uphillMinutes": 110,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "치목~안국사",
+      "start": "치목",
+      "via": "송대폭포",
+      "end": "안국사",
+      "distanceMeters": 3700,
+      "uphillMinutes": 100,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "인월담~향적봉",
+      "start": "인월담",
+      "via": "칠봉",
+      "end": "향적봉",
+      "distanceMeters": 5700,
+      "uphillMinutes": 180,
+      "downhillMinutes": 160
+    },
+    {
+      "name": "서래봉~구관사앞",
+      "start": "벽련암",
+      "via": "불출~망해~연지~까치~신선~연자~장군봉",
+      "end": "구관사앞",
+      "distanceMeters": 13200,
+      "uphillMinutes": 480,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원적골 자연관찰로",
+      "start": "일주문",
+      "via": "벽련암~사랑의다리~비자림",
+      "end": "내장사",
+      "distanceMeters": 2700,
+      "uphillMinutes": 80,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "제5주차장~서래약수",
+      "start": "제4,5주차장",
+      "via": "서래탐방지원센터",
+      "end": "서래약수",
+      "distanceMeters": 1000,
+      "uphillMinutes": 70,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "백련암~서래봉",
+      "start": "벽련암",
+      "via": "석란정지",
+      "end": "서래봉",
+      "distanceMeters": 500,
+      "uphillMinutes": 40,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "까치봉~순창고개",
+      "start": "까치봉",
+      "via": "소둥근재",
+      "end": "순창새재",
+      "distanceMeters": 2600,
+      "uphillMinutes": 200,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "대가~신선봉",
+      "start": "대가",
+      "via": "",
+      "end": "신선봉",
+      "distanceMeters": 1800,
+      "uphillMinutes": 180,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "금선계곡~까치봉",
+      "start": "금선계곡",
+      "via": "",
+      "end": "까치봉",
+      "distanceMeters": 900,
+      "uphillMinutes": 60,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "내장사~금선대",
+      "start": "내장사",
+      "via": "금선계곡~신선삼거리",
+      "end": "금선대",
+      "distanceMeters": 1700,
+      "uphillMinutes": 100,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "내장사~연자봉",
+      "start": "내장사",
+      "via": "굴거리나무군락~전망대",
+      "end": "연자봉",
+      "distanceMeters": 1200,
+      "uphillMinutes": 50,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "입암~새재입구",
+      "start": "입암탐방지원센터",
+      "via": "",
+      "end": "새재입구",
+      "distanceMeters": 6000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "원적암~불출봉",
+      "start": "원적암",
+      "via": "",
+      "end": "불출봉",
+      "distanceMeters": 900,
+      "uphillMinutes": 50,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "상신탐방지원센터~작은배재",
+      "start": "상신탐방지원센터",
+      "via": "큰배재",
+      "end": "작은배재",
+      "distanceMeters": 4300,
+      "uphillMinutes": 140,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "병사골탐방지원센터~큰배재",
+      "start": "병사골탐방지원센터",
+      "via": "장군봉~갓바위",
+      "end": "큰배재",
+      "distanceMeters": 4600,
+      "uphillMinutes": 170,
+      "downhillMinutes": 140
+    },
+    {
+      "name": "지석골탐방지원센터~갓바위삼거리",
+      "start": "지석골탐방지원센터",
+      "via": "",
+      "end": "갓바위삼거리",
+      "distanceMeters": 1200,
+      "uphillMinutes": 50,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "천정탐방지원센터~천정골갈림길",
+      "start": "천정탐방지원센터",
+      "via": "",
+      "end": "천정골갈림길(지석골방향)",
+      "distanceMeters": 1800,
+      "uphillMinutes": 70,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "동학사세진정~큰배재",
+      "start": "동학사세진정",
+      "via": "남매탑",
+      "end": "큰배재",
+      "distanceMeters": 2200,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "육심령~남덕유산",
+      "start": "육십령",
+      "via": "서봉",
+      "end": "남덕유산",
+      "distanceMeters": 3600,
+      "uphillMinutes": 300,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "17.을전~늦은맥이제",
+      "start": "을전",
+      "via": "벌바위골",
+      "end": "늦은맥이재삼거리",
+      "distanceMeters": 4500,
+      "uphillMinutes": 150,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "우이도탐방로",
+      "start": "진리마을",
+      "via": "",
+      "end": "돈목",
+      "distanceMeters": 4,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "주산지입구~주산지(주산지탐방로)",
+      "start": "주산지입구(공원경계)",
+      "via": "",
+      "end": "주산지",
+      "distanceMeters": 1000,
+      "uphillMinutes": 20,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "월외1리~대전사",
+      "start": "월외1리",
+      "via": "금은광이삼거리-3폭포",
+      "end": "대전사",
+      "distanceMeters": 12300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "홍도 탐방로",
+      "start": "홍도1구",
+      "via": "",
+      "end": "홍도2구",
+      "distanceMeters": 4,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "삼불봉고개~관음봉고개",
+      "start": "삼불봉고개",
+      "via": "삼불봉~관음봉",
+      "end": "관음봉고개",
+      "distanceMeters": 2000,
+      "uphillMinutes": 80,
+      "downhillMinutes": 80
+    },
+    {
+      "name": "갑사~남매탑",
+      "start": "갑사",
+      "via": "금잔디고개",
+      "end": "남매탑",
+      "distanceMeters": 3000,
+      "uphillMinutes": 160,
+      "downhillMinutes": 140
+    },
+    {
+      "name": "제2폭포~제3폭포",
+      "start": "제2폭포",
+      "via": "가메봉-내원동",
+      "end": "제3폭포",
+      "distanceMeters": 7700,
+      "uphillMinutes": 240,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "뱀사골정상",
+      "via": "",
+      "end": "삼각고지",
+      "distanceMeters": 12,
+      "uphillMinutes": 180,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "구룡사",
+      "via": "투구봉",
+      "end": "비로봉",
+      "distanceMeters": 9,
+      "uphillMinutes": 300,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "탐방로",
+      "start": "금대리",
+      "via": "질아치",
+      "end": "향로봉",
+      "distanceMeters": 8,
+      "uphillMinutes": 180,
+      "downhillMinutes": 160
+    },
+    {
+      "name": "송계리~송계삼거리",
+      "start": "송계리",
+      "via": "",
+      "end": "송계삼거리",
+      "distanceMeters": 2500,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "덕주사~영봉",
+      "start": "덕주사",
+      "via": "송계삼거리",
+      "end": "영봉",
+      "distanceMeters": 4900,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "만수교~만수봉~만수교",
+      "start": "만수교",
+      "via": "만수봉",
+      "end": "만수교",
+      "distanceMeters": 7300,
+      "uphillMinutes": 150,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "지릅재~마패봉",
+      "start": "지름재",
+      "via": "마패봉삼거리",
+      "end": "마패봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "상선암~제봉~도락산",
+      "start": "상선암",
+      "via": "제봉",
+      "end": "도락산",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "하늘재~포암산~만수봉삼거리",
+      "start": "하늘재",
+      "via": "포암산",
+      "end": "만수봉삼거리",
+      "distanceMeters": 6000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "상천리~금수산~상리",
+      "start": "상천리",
+      "via": "금수산",
+      "end": "상리",
+      "distanceMeters": 2400,
+      "uphillMinutes": 240,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "장회리~제비봉~얼음골",
+      "start": "장회리",
+      "via": "제비봉",
+      "end": "얼음골",
+      "distanceMeters": 4100,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "계란재~구담봉~옥순봉",
+      "start": "계란재",
+      "via": "구담봉",
+      "end": "옥순봉",
+      "distanceMeters": 2900,
+      "uphillMinutes": 120,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "뫼악동~북바위산~물레방아",
+      "start": "뫼악동",
+      "via": "북바위산",
+      "end": "물레방아",
+      "distanceMeters": 4900,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "상선암~채운봉~도락산삼거리",
+      "start": "상선암",
+      "via": "채운봉",
+      "end": "도락산삼거리",
+      "distanceMeters": 2200,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "미륵리~하늘재",
+      "start": "미륵리",
+      "via": "",
+      "end": "하늘재",
+      "distanceMeters": 2000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "우이암~원통사",
+      "start": "우이암",
+      "via": "",
+      "end": "원통사",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "육모정공원지킴터~육모정고개",
+      "start": "육모정공원지킴터",
+      "via": "",
+      "end": "육모정고개",
+      "distanceMeters": 1,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "백운대탐방지원센터~하루재~위문~백운대",
+      "start": "백운대탐방지원센터",
+      "via": "하루재-위문",
+      "end": "백운대",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "도선광장~용암문",
+      "start": "용암문공원지킴터",
+      "via": "",
+      "end": "용암문",
+      "distanceMeters": 2,
+      "uphillMinutes": 70,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "주등산로",
+      "start": "소귀천매표소",
+      "via": "",
+      "end": "대동약수",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "백련공원지킴터~진달래능선~대동문",
+      "start": "백련공원지킴터",
+      "via": "진달래능선",
+      "end": "대동문",
+      "distanceMeters": 3,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "운가사공원지킴터~진달래능선",
+      "start": "운가사공원지킴터",
+      "via": "",
+      "end": "진달래능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 70,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "아카데미탐방지원센터~구천폭포~대동문",
+      "start": "아카데미매표소",
+      "via": "구천폭포",
+      "end": "대동문",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "위문~용암문~대동문~보국문~대남문",
+      "start": "위문",
+      "via": "용암문-대동문-보국문-대성문",
+      "end": "대남문",
+      "distanceMeters": 4,
+      "uphillMinutes": 180,
+      "downhillMinutes": 170
+    },
+    {
+      "name": "냉골공원지킴터~칼바위능선",
+      "start": "냉골공원지킴터",
+      "via": "",
+      "end": "칼바위능선",
+      "distanceMeters": 1,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "화계동공원지킴터~칼바위능선",
+      "start": "화계동공원지킴터",
+      "via": "",
+      "end": "칼바위능선",
+      "distanceMeters": 1,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "빨래골매표소~산성주능선",
+      "start": "빨래골매표소",
+      "via": "칼바위능선",
+      "end": "산성주능선",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "정릉탐방지원센터~보국문",
+      "start": "정릉탐방지원센터",
+      "via": "",
+      "end": "보국문",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "청수폭포~일선사~대성문",
+      "start": "청수폭포",
+      "via": "일선사",
+      "end": "대성문",
+      "distanceMeters": 3,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "북악공원지킴터~형제봉삼거리",
+      "start": "북악공원지킴터",
+      "via": "",
+      "end": "형제봉삼거리",
+      "distanceMeters": 2,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "형제봉입구~형제봉~일선사",
+      "start": "형제봉입구",
+      "via": "형제봉",
+      "end": "일선사",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "평창공원지킴터~일선사~보현봉~대남문",
+      "start": "평창공원지킴터",
+      "via": "일선사-보현봉",
+      "end": "대남문",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "구기분소~대남문",
+      "start": "구기분소",
+      "via": "",
+      "end": "대남문",
+      "distanceMeters": 3,
+      "uphillMinutes": 100,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "주등산로",
+      "start": "비봉매표소",
+      "via": "비봉능선-문수봉-",
+      "end": "대남문",
+      "distanceMeters": 4,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "승가공원지킴터~비봉능선",
+      "start": "승가공원지킴터",
+      "via": "",
+      "end": "비봉능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "탕춘대공원지킴터~절터샘",
+      "start": "탕춘대공원지킴터",
+      "via": "",
+      "end": "절터샘",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "구기터널입구~구기불광능선",
+      "start": "구기터널입구",
+      "via": "",
+      "end": "구기불광능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "불광계곡~족두리봉",
+      "start": "불광계곡",
+      "via": "",
+      "end": "족두리봉",
+      "distanceMeters": 1,
+      "uphillMinutes": 50,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "불광계곡~비봉",
+      "start": "불광계곡",
+      "via": "",
+      "end": "비봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "주등산로",
+      "start": "기독교수양관",
+      "via": "",
+      "end": "향로봉밑 갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 15,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "기자촌~향로봉",
+      "start": "기자촌",
+      "via": "",
+      "end": "향로봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 20,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "진관계곡~비봉",
+      "start": "진관계곡",
+      "via": "",
+      "end": "비봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 80,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "삼천사입구~사모바위",
+      "start": "삼천사입구",
+      "via": "",
+      "end": "사모바위",
+      "distanceMeters": 3,
+      "uphillMinutes": 35,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주등산로",
+      "start": "삼천사계곡",
+      "via": "",
+      "end": "문수봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 70,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "주등산로",
+      "start": "삼천사계곡입구",
+      "via": "삼천사",
+      "end": "부왕동암문",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "주등산로",
+      "start": "백화사입구",
+      "via": "",
+      "end": "가사당암문",
+      "distanceMeters": 3,
+      "uphillMinutes": 100,
+      "downhillMinutes": 80
+    },
+    {
+      "name": "주등산로",
+      "start": "용암사입구",
+      "via": "의상능선",
+      "end": "문수봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 170,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "주등산로",
+      "start": "산성분소",
+      "via": "",
+      "end": "등운각",
+      "distanceMeters": 1,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "주등산로",
+      "start": "법용사입구",
+      "via": "",
+      "end": "가사당암문",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "주등산로",
+      "start": "행궁지입구",
+      "via": "남장대지",
+      "end": "청수동암문",
+      "distanceMeters": 2,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "주등산로",
+      "start": "북한산성계곡",
+      "via": "대성암",
+      "end": "대남문",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "효자원~대동사입구",
+      "start": "효자원",
+      "via": "원효봉",
+      "end": "대동사입구",
+      "distanceMeters": 3,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "북한산성입구~대서문",
+      "start": "북한산성입구",
+      "via": "대서문",
+      "end": "위문",
+      "distanceMeters": 4,
+      "uphillMinutes": 130,
+      "downhillMinutes": 110
+    },
+    {
+      "name": "밤골입구~밤골계곡",
+      "start": "밤골입구",
+      "via": "",
+      "end": "밤골계곡",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주등산로",
+      "start": "사기막입구",
+      "via": "",
+      "end": "백운대",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "용학사~부왕동암문",
+      "start": "용학사",
+      "via": "",
+      "end": "부왕동암문",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "독박골~구기불광능선",
+      "start": "독박골",
+      "via": "",
+      "end": "구기불광능선",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "등운각~보국문",
+      "start": "등운각",
+      "via": "중성문",
+      "end": "보국문",
+      "distanceMeters": 4,
+      "uphillMinutes": 65,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "주등산로",
+      "start": "선운교",
+      "via": "",
+      "end": "하루재",
+      "distanceMeters": 2,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "주등산로",
+      "start": "구천폭포",
+      "via": "",
+      "end": "칼바위능선",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "주등산로",
+      "start": "약수암",
+      "via": "영불사",
+      "end": "대남문",
+      "distanceMeters": 4,
+      "uphillMinutes": 100,
+      "downhillMinutes": 80
+    },
+    {
+      "name": "주등산로",
+      "start": "백은매표소",
+      "via": "삼거리",
+      "end": "하루재",
+      "distanceMeters": 2,
+      "uphillMinutes": 70,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "5.비선대~영시암",
+      "start": "비선대",
+      "via": "마등령",
+      "end": "영시암",
+      "distanceMeters": 7400,
+      "uphillMinutes": 290,
+      "downhillMinutes": 300
+    },
+    {
+      "name": "소공원~희운각대피소",
+      "start": "소공원(일주문)",
+      "via": "양폭대피소",
+      "end": "희운각대피소",
+      "distanceMeters": 8500,
+      "uphillMinutes": 290,
+      "downhillMinutes": 210
+    },
+    {
+      "name": "오색~대청봉",
+      "start": "남설악",
+      "via": "설악폭포",
+      "end": "대청봉",
+      "distanceMeters": 5000,
+      "uphillMinutes": 240,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "성불사입구~범골능선",
+      "start": "성불사입구",
+      "via": "",
+      "end": "범골능선",
+      "distanceMeters": 600,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "의정부시청뒤~백인굴",
+      "start": "의정부시청 뒤",
+      "via": "",
+      "end": "백인굴",
+      "distanceMeters": 1300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "범골~범골능선~사패능선",
+      "start": "범골",
+      "via": "범골능선",
+      "end": "사패능선",
+      "distanceMeters": 2800,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "덕제샘~망월사~포대능선",
+      "start": "덕제샘",
+      "via": "망월사",
+      "end": "포대능선",
+      "distanceMeters": 800,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "다락원입구~다락능선",
+      "start": "다락원입구",
+      "via": "",
+      "end": "다락능선",
+      "distanceMeters": 1300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원각사입구~사패능선",
+      "start": "원각사입구",
+      "via": "",
+      "end": "사패능선",
+      "distanceMeters": 2500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "흑산도 자연관찰로",
+      "start": "진리당",
+      "via": "",
+      "end": "진리당",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(죽령옛길)",
+      "start": "죽령옛길",
+      "via": "",
+      "end": "죽령옛길",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "흑산면사무소~어울림~소사리",
+      "start": "흑산면사무소",
+      "via": "어울림",
+      "end": "소사리",
+      "distanceMeters": 4,
+      "uphillMinutes": 70,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "오세암~봉정암",
+      "start": "오세암",
+      "via": "가야동계곡",
+      "end": "봉정암",
+      "distanceMeters": 3500,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "여심폭포입구~용소폭포",
+      "start": "흘림골입구",
+      "via": "등선대",
+      "end": "용소폭포",
+      "distanceMeters": 3100,
+      "uphillMinutes": 100,
+      "downhillMinutes": 130
+    },
+    {
+      "name": "신계동~상왕봉",
+      "start": "신계동",
+      "via": "",
+      "end": "상왕봉",
+      "distanceMeters": 3200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "통제소~일주문",
+      "start": "통제소",
+      "via": "",
+      "end": "일주문",
+      "distanceMeters": 1300,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "탐방로",
+      "start": "상왕봉",
+      "via": "",
+      "end": "동피골야영장",
+      "distanceMeters": 4600,
+      "uphillMinutes": 90,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "청량동~남산제일봉",
+      "start": "청량동",
+      "via": "",
+      "end": "남산제일봉",
+      "distanceMeters": 2300,
+      "uphillMinutes": 100,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "탐방로",
+      "start": "동성봉입구",
+      "via": "동성봉",
+      "end": "용기폭포아래",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "상왕봉~비로봉",
+      "start": "상왕봉",
+      "via": "",
+      "end": "비로봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "큰골삼거리~자연성릉",
+      "start": "큰골삼거리",
+      "via": "금잔디고개",
+      "end": "자연성릉",
+      "distanceMeters": 1400,
+      "uphillMinutes": 55,
+      "downhillMinutes": 35
+    },
+    {
+      "name": "갑사분소~동학사탐방지원센터",
+      "start": "갑사분소",
+      "via": "연천봉고개~관음봉고개~은선폭포",
+      "end": "동학사탐방지원센터",
+      "distanceMeters": 7400,
+      "uphillMinutes": 260,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "신원사~연천봉",
+      "start": "신원사",
+      "via": "연천봉고개",
+      "end": "연천봉",
+      "distanceMeters": 2900,
+      "uphillMinutes": 110,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "수통골주차장~수통골",
+      "start": "수통골주차장",
+      "via": "빈계산~금수봉~자티고개~도덕봉",
+      "end": "수통골",
+      "distanceMeters": 8700,
+      "uphillMinutes": 330,
+      "downhillMinutes": 330
+    },
+    {
+      "name": "백담사~대청봉",
+      "start": "백담사",
+      "via": "봉정암",
+      "end": "대청봉",
+      "distanceMeters": 12900,
+      "uphillMinutes": 470,
+      "downhillMinutes": 320
+    },
+    {
+      "name": "황장폭포~장수대",
+      "start": "황장폭포",
+      "via": "대승령",
+      "end": "장수대",
+      "distanceMeters": 7300,
+      "uphillMinutes": 240,
+      "downhillMinutes": 210
+    },
+    {
+      "name": "남교리~한계령갈림길",
+      "start": "남교리",
+      "via": "대승령",
+      "end": "한계령삼거리",
+      "distanceMeters": 16200,
+      "uphillMinutes": 510,
+      "downhillMinutes": 490
+    },
+    {
+      "name": "마등령~한계령",
+      "start": "마등령",
+      "via": "소청",
+      "end": "한계령",
+      "distanceMeters": 14700,
+      "uphillMinutes": 690,
+      "downhillMinutes": 660
+    },
+    {
+      "name": "소공원~권금성",
+      "start": "소공원",
+      "via": "",
+      "end": "권금성",
+      "distanceMeters": 1200,
+      "uphillMinutes": 100,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "소공원~울산바위",
+      "start": "소공원",
+      "via": "흔들바위(계조암)",
+      "end": "울산바위",
+      "distanceMeters": 3800,
+      "uphillMinutes": 120,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "소공원~토왕성폭포 전망대",
+      "start": "소공원(비룡교)",
+      "via": "비룡폭포",
+      "end": "토왕성폭포 전망대",
+      "distanceMeters": 2810,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "용소입구~오색약수터 탐방로",
+      "start": "용소폭포주차장",
+      "via": "용소폭포",
+      "end": "오색약수터",
+      "distanceMeters": 3500,
+      "uphillMinutes": 70,
+      "downhillMinutes": 80
+    },
+    {
+      "name": "소금강-동피골",
+      "start": "소금강",
+      "via": "노인봉, 동대산",
+      "end": "동피골야영장",
+      "distanceMeters": 17700,
+      "uphillMinutes": 580,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "상원사~비로봉",
+      "start": "상원사",
+      "via": "적멸보궁",
+      "end": "비로봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 100,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "동대산~두로령",
+      "start": "동대산",
+      "via": "두로봉",
+      "end": "두로령",
+      "distanceMeters": 8300,
+      "uphillMinutes": 280,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "두로령~상왕봉",
+      "start": "두로령",
+      "via": "",
+      "end": "상왕봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "부곡리",
+      "via": "곧은치",
+      "end": "비로봉",
+      "distanceMeters": 15,
+      "uphillMinutes": 240,
+      "downhillMinutes": 190
+    },
+    {
+      "name": "탐방로",
+      "start": "부곡리",
+      "via": "변암",
+      "end": "비로봉",
+      "distanceMeters": 10,
+      "uphillMinutes": 180,
+      "downhillMinutes": 130
+    },
+    {
+      "name": "탐방로",
+      "start": "성남",
+      "via": "남대봉",
+      "end": "상원사",
+      "distanceMeters": 9,
+      "uphillMinutes": 150,
+      "downhillMinutes": 110
+    },
+    {
+      "name": "자하교~학소대(자연관찰로)",
+      "start": "자하교",
+      "via": "주왕암",
+      "end": "학소교",
+      "distanceMeters": 1200,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "대전사~금은광이삼거리(장군봉탐방로)",
+      "start": "대전사",
+      "via": "장군봉",
+      "end": "금은광이삼거리",
+      "distanceMeters": 5300,
+      "uphillMinutes": 140,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "절골입구~가메봉",
+      "start": "절골입구",
+      "via": "대문다리",
+      "end": "가메봉",
+      "distanceMeters": 5700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "대전사~후리메기삼거리",
+      "start": "대전사",
+      "via": "주봉",
+      "end": "후리메기삼거리",
+      "distanceMeters": 4800,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "제7탐방로(자연관찰로)",
+      "start": "자하교",
+      "via": "주왕암입구",
+      "end": "학소대쉼터",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "도초도 탐방로",
+      "start": "시목",
+      "via": "작은시목",
+      "end": "목넘",
+      "distanceMeters": 2,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "성도원하단~마당바위",
+      "start": "성도원하단",
+      "via": "",
+      "end": "마당바위",
+      "distanceMeters": 820,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "석굴삼거리~신선대",
+      "start": "석굴삼거리",
+      "via": "",
+      "end": "신선대",
+      "distanceMeters": 1100,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "오봉능선~도봉주능선",
+      "start": "오봉능선",
+      "via": "",
+      "end": "도봉주능선",
+      "distanceMeters": 1100,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "송추~송추남능선,오봉능선~도봉주능선",
+      "start": "송추",
+      "via": "송추남능선,오봉능선",
+      "end": "도봉주능선",
+      "distanceMeters": 4100,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "송추폭포입구~오봉능선",
+      "start": "송추폭포입구",
+      "via": "",
+      "end": "오봉능선",
+      "distanceMeters": 1900,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "수통탐방지원센터~체험학습관~수통폭포~",
+      "start": "수통골탐방지원센터",
+      "via": "수통폭포",
+      "end": "금수봉삼거리",
+      "distanceMeters": 2650,
+      "uphillMinutes": 100,
+      "downhillMinutes": 80
+    },
+    {
+      "name": "수통폭포~성북동삼거리",
+      "start": "수통폭포",
+      "via": "",
+      "end": "성북동삼거리",
+      "distanceMeters": 1100,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "체험학습관~수통폭포~가리울위삼거리",
+      "start": "수통폭포",
+      "via": "",
+      "end": "가리울삼거리",
+      "distanceMeters": 1800,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "동학사일주문~일주문상단100m",
+      "start": "동학사일주문",
+      "via": "",
+      "end": "일주문상단100M",
+      "distanceMeters": 0,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "만수계곡자연관찰로",
+      "start": "만수교",
+      "via": "",
+      "end": "만수교",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "미륵리역사자연관찰로",
+      "start": "미륵리주차장",
+      "via": "",
+      "end": "미륵리주차장",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "전나무숲 자연관찰로",
+      "start": "월정사",
+      "via": "",
+      "end": "일주문",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "자연관찰로",
+      "start": "금산입구(분기점)",
+      "via": "계곡 습지",
+      "end": "금산입구(회유형)",
+      "distanceMeters": 1,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "5.화엄사~연기암",
+      "start": "화엄사",
+      "via": "",
+      "end": "연기암",
+      "distanceMeters": 3900,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "6.당동~당동마을",
+      "start": "당동",
+      "via": "",
+      "end": "당동마을",
+      "distanceMeters": 2000,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "자연관찰로",
+      "start": "국제화장실",
+      "via": "",
+      "end": "해인사일주문",
+      "distanceMeters": 700,
+      "uphillMinutes": 20,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "도봉자연관찰로",
+      "start": "도봉탐방지원센터",
+      "via": "도봉사~산정약수터~서원터",
+      "end": "도봉탐방지원센터",
+      "distanceMeters": 1500,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "원도봉자연관찰로",
+      "start": "원도봉쌍용사",
+      "via": "원효사하단",
+      "end": "엄홍길생가터",
+      "distanceMeters": 600,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "노고단고개~노고단정상",
+      "start": "노고단고개",
+      "via": "",
+      "end": "노고단정상",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "4.성삼재~노고단정상",
+      "start": "성삼재",
+      "via": "무넹기",
+      "end": "노고단고개",
+      "distanceMeters": 5400,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "직전마을~삼홍소",
+      "start": "직전마을",
+      "via": "표고막터",
+      "end": "삼홍소",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "화엄사~연기암",
+      "start": "화엄사",
+      "via": "용소",
+      "end": "연기암",
+      "distanceMeters": 2,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "소금강 자연관찰로",
+      "start": "무릉계",
+      "via": "",
+      "end": "구룡폭포",
+      "distanceMeters": 2,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "법주사 자연관찰로",
+      "start": "법주사 매표소",
+      "via": "오리숲",
+      "end": "법주사 일주문",
+      "distanceMeters": 700,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "화양-자연관찰로-데크",
+      "start": "화양동 잔디밭 B화장실 맞은편",
+      "via": "",
+      "end": "화양2교 이전",
+      "distanceMeters": 300,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "몽산포 자연관찰로",
+      "start": "몽산포 야영장",
+      "via": "",
+      "end": "몽산포 습지 데크",
+      "distanceMeters": 900,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "기지포 자연관찰로",
+      "start": "기지포 탐방지원센터",
+      "via": "",
+      "end": "기지포 해변",
+      "distanceMeters": 1100,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "10.월평마을~바래봉",
+      "start": "월평마을",
+      "via": "",
+      "end": "바래봉",
+      "distanceMeters": 3800,
+      "uphillMinutes": 110,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "11.바래봉삼거리~바래봉",
+      "start": "바래봉삼거리",
+      "via": "",
+      "end": "바래봉",
+      "distanceMeters": 600,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "12.와운교~요룡대",
+      "start": "와운교",
+      "via": "",
+      "end": "요룡대",
+      "distanceMeters": 1500,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "13.뱀사골야영장~와운길",
+      "start": "뱀사골야영장",
+      "via": "",
+      "end": "와운길",
+      "distanceMeters": 800,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "14.정령치~정령치습지",
+      "start": "정령치",
+      "via": "",
+      "end": "정령치 습지",
+      "distanceMeters": 400,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "15.육모정~육모정",
+      "start": "육모정",
+      "via": "약수터",
+      "end": "육모정",
+      "distanceMeters": 700,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "16.구룡임도~구룡치",
+      "start": "구룡임도",
+      "via": "",
+      "end": "구룡치",
+      "distanceMeters": 500,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "선운교",
+      "via": "옥류교-소귀천매표소",
+      "end": "대동약수",
+      "distanceMeters": 2,
+      "uphillMinutes": 35,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "쌍곡-탐방로(떡바위~칠보산~쌍곡폭포)",
+      "start": "떡바위",
+      "via": "칠보산",
+      "end": "쌍곡폭포",
+      "distanceMeters": 6200,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "속리-탐방로(비로산장~상고암)",
+      "start": "비로산장",
+      "via": "",
+      "end": "상고암",
+      "distanceMeters": 1200,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "속리-탐방로(새목이~삼가리)",
+      "start": "새목이",
+      "via": "",
+      "end": "삼가리",
+      "distanceMeters": 4100,
+      "uphillMinutes": 90,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "화양-탐방로(자연학습원~가령산~낙영산",
+      "start": "자연학습원",
+      "via": "가령산",
+      "end": "낙영산",
+      "distanceMeters": 6000,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "화북-옥양폭포~백악산~입석",
+      "start": "옥양폭포",
+      "via": "백악산",
+      "end": "입석",
+      "distanceMeters": 11500,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "쌍곡-탐방로(각연사~칠보산_청석재)",
+      "start": "각연사",
+      "via": "",
+      "end": "칠보산",
+      "distanceMeters": 3000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "쌍곡-탐방로(각연사~칠보산_활목재)",
+      "start": "각연사삼거리",
+      "via": "",
+      "end": "칠보산(하)",
+      "distanceMeters": 1500,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "쌍곡-탐방로(갈론~아가봉~갈론)",
+      "start": "갈론",
+      "via": "아가봉",
+      "end": "갈론",
+      "distanceMeters": 8200,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "미타사~북가치~민판동",
+      "start": "미타사",
+      "via": "북가치",
+      "end": "민판동",
+      "distanceMeters": 2200,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "형제봉~만수리",
+      "start": "형제봉",
+      "via": "",
+      "end": "만수리",
+      "distanceMeters": 2500,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "탐방로",
+      "start": "하치마을",
+      "via": "누릿재",
+      "end": "사자저수지",
+      "distanceMeters": 2,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "탐방로",
+      "start": "산성대입구",
+      "via": "",
+      "end": "광암터",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "경포대삼거리",
+      "via": "",
+      "end": "종주능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "천황주차장",
+      "via": "",
+      "end": "탑동약수터",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "구정봉",
+      "via": "용암사지(마애불)",
+      "end": "홍계골",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "죽정",
+      "via": "",
+      "end": "월대암",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "수통골주차장~빈계산능선",
+      "start": "수통골주차장",
+      "via": "",
+      "end": "빈계산능선",
+      "distanceMeters": 500,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "갑사~대적전",
+      "start": "갑사분소",
+      "via": "철당간지주",
+      "end": "대적전",
+      "distanceMeters": 500,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "상신마을~만학골",
+      "start": "상신마을",
+      "via": "구재",
+      "end": "만학골",
+      "distanceMeters": 3000,
+      "uphillMinutes": 160,
+      "downhillMinutes": 140
+    },
+    {
+      "name": "갑사상가~안터",
+      "start": "갑사상가",
+      "via": "",
+      "end": "안터",
+      "distanceMeters": 900,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "민목재~자티고개",
+      "start": "민목재",
+      "via": "관암산~백운봉",
+      "end": "자티고개",
+      "distanceMeters": 2700,
+      "uphillMinutes": 110,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "도덕봉~삽재",
+      "start": "도덕봉",
+      "via": "",
+      "end": "삽재",
+      "distanceMeters": 1600,
+      "uphillMinutes": 70,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "갑사분소~일주문,갑사~갑사분소",
+      "start": "갑사분소",
+      "via": "일주문, 갑사",
+      "end": "갑사분소",
+      "distanceMeters": 1,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "만화재~북문",
+      "start": "만화제",
+      "via": "",
+      "end": "북문",
+      "distanceMeters": 900,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "등천리~은선동",
+      "start": "등천리",
+      "via": "",
+      "end": "은선동",
+      "distanceMeters": 1500,
+      "uphillMinutes": 65,
+      "downhillMinutes": 55
+    },
+    {
+      "name": "탐방로",
+      "start": "태배",
+      "via": "",
+      "end": "가르미끝",
+      "distanceMeters": 0,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "탐방로",
+      "start": "산너두골",
+      "via": "",
+      "end": "큰재산",
+      "distanceMeters": 0,
+      "uphillMinutes": 30,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "6. 백사장~꽃지(안면도)",
+      "start": "백사장",
+      "via": "창정교",
+      "end": "꽃지",
+      "distanceMeters": 3600,
+      "uphillMinutes": 50,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "우이령길",
+      "start": "강북구우이동",
+      "via": "",
+      "end": "장흥면교현리(우이령길)",
+      "distanceMeters": 4460,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "북부복원센터 목재데크",
+      "start": "북부복원센터 건물 뒷편",
+      "via": "",
+      "end": "생태학습장 상단",
+      "distanceMeters": 0,
+      "uphillMinutes": 3,
+      "downhillMinutes": 3
+    },
+    {
+      "name": "제2수원지",
+      "start": "미술관앞",
+      "via": "제2수원지",
+      "end": "산길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "배낭기미습지탐방로",
+      "start": "진리마을",
+      "via": "",
+      "end": "배낭기미습지",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "동학사매표소 ~ 구야영장",
+      "start": "동학사매표소",
+      "via": "동학사",
+      "end": "구야영장",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "기지포 자연관찰로",
+      "start": "기지포탐방지원센터",
+      "via": "",
+      "end": "기지포해변",
+      "distanceMeters": 300,
+      "uphillMinutes": 5,
+      "downhillMinutes": 5
+    },
+    {
+      "name": "탐방로",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "동학사 ~ 관음봉",
+      "start": "동학사",
+      "via": "은선폭포",
+      "end": "관음봉",
+      "distanceMeters": 3,
+      "uphillMinutes": 100,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "은선동삼거리",
+      "start": "은선동삼거리",
+      "via": "",
+      "end": "새재갈림길",
+      "distanceMeters": 1100,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "교리터널~수레바위",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "천황사지구~도갑사",
+      "start": "천황사지구",
+      "via": "",
+      "end": "도갑사",
+      "distanceMeters": 8600,
+      "uphillMinutes": 390,
+      "downhillMinutes": 350
+    },
+    {
+      "name": "미술관앞~제2수원지~산길",
+      "start": "미술관앞",
+      "via": "제2수원지",
+      "end": "산길",
+      "distanceMeters": 900,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "진리마을~배낭기미습지",
+      "start": "진리마을",
+      "via": "",
+      "end": "배낭기미습지",
+      "distanceMeters": 400,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "청수폭포~대성문",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "운문암",
+      "start": "운문암갈림길",
+      "via": "",
+      "end": "옹달샘갈림길",
+      "distanceMeters": 600,
+      "uphillMinutes": 30,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "정진~족두리봉",
+      "start": "정진공원지킴터",
+      "via": "",
+      "end": "족두리봉",
+      "distanceMeters": 1400,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "탕춘대매표소~암문",
+      "start": "탕춘대매표소",
+      "via": "",
+      "end": "암문",
+      "distanceMeters": 1200,
+      "uphillMinutes": 40,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "소도집단시설지구매표소~천왕단(천제단)",
+      "start": "소도집단시설지구매표소",
+      "via": "단군각~망경사",
+      "end": "천왕단(천제단)",
+      "distanceMeters": 3700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "반재갈림길~문수봉갈림길",
+      "start": "반재갈림길",
+      "via": "",
+      "end": "문수봉갈림길",
+      "distanceMeters": 1700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "소도집단시설지구매표소~반재",
+      "start": "소도집단시설지구매표소",
+      "via": "만적사~대진주암",
+      "end": "반재",
+      "distanceMeters": 1600,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "소도집단시설지구매표소~소문수봉갈림길",
+      "start": "소도집단시설지구매표소",
+      "via": "제당골",
+      "end": "소문수봉갈림길",
+      "distanceMeters": 1500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "소문수봉~혈동집단시설지구매표소",
+      "start": "유황골",
+      "via": "문수봉~천왕단(천제단)~장군봉",
+      "end": "혈동집단시설지",
+      "distanceMeters": 10300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "금천~소문수봉",
+      "start": "금천",
+      "via": "절터골",
+      "end": "소문수봉",
+      "distanceMeters": 2900,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "금천갈림길~소문수봉",
+      "start": "금천갈림길",
+      "via": "",
+      "end": "소문수봉",
+      "distanceMeters": 2000,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "백단사집단시설지구매표소~반재",
+      "start": "백단사집단시설지구매표소",
+      "via": "",
+      "end": "반재",
+      "distanceMeters": 1600,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "분주령~금대봉",
+      "start": "분주령",
+      "via": "",
+      "end": "금대봉",
+      "distanceMeters": 3300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "대덕산~분주령",
+      "start": "대덕산",
+      "via": "분주령갈림길",
+      "end": "분주령",
+      "distanceMeters": 1500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "분주령~대덕산",
+      "start": "분주령",
+      "via": "정진외박골",
+      "end": "대덕산",
+      "distanceMeters": 1700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "검룡소입구~분주재골",
+      "start": "검룡소입구",
+      "via": "",
+      "end": "분주재골",
+      "distanceMeters": 1500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "검룡소갈림길~검룡소",
+      "start": "검룡소갈림길",
+      "via": "",
+      "end": "검룡소",
+      "distanceMeters": 600,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "검룡소주차장~쑤아밭령",
+      "start": "검룡소주차장",
+      "via": "",
+      "end": "쑤아밭령",
+      "distanceMeters": 1400,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "늦동목이재~만항재",
+      "start": "늦동목이재",
+      "via": "두문동재~은대봉~금대봉~함백산",
+      "end": "만항재",
+      "distanceMeters": 12400,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "은대봉~도깨비도로갈림길",
+      "start": "은대봉",
+      "via": "",
+      "end": "도깨비도로갈림길",
+      "distanceMeters": 900,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "새마을지도자공원~도깨비도로(구도로)",
+      "start": "새마을지도자공원",
+      "via": "",
+      "end": "도깨비도로(구도로)",
+      "distanceMeters": 700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "적조암갈림길~O2리조트",
+      "start": "적조암갈림길",
+      "via": "자작나무샘터",
+      "end": "O2리조트",
+      "distanceMeters": 2400,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "만항재~화방재",
+      "start": "만항재",
+      "via": "",
+      "end": "화방재",
+      "distanceMeters": 3200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "화방재~유일사",
+      "start": "화방재",
+      "via": "사길령~유일사갈림길",
+      "end": "유일사",
+      "distanceMeters": 3000,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "태백사~유일사갈림길",
+      "start": "태백사",
+      "via": "",
+      "end": "유일사갈림길",
+      "distanceMeters": 500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "주목군락지~부쇠봉갈림길",
+      "start": "주목군락지",
+      "via": "망경사(샛길)",
+      "end": "부쇠봉갈림길",
+      "distanceMeters": 1700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "단군성전갈림길~소문수봉",
+      "start": "단군성전갈림길",
+      "via": "",
+      "end": "소문수봉",
+      "distanceMeters": 1300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "부쇠봉~깃대배기봉",
+      "start": "부쇠봉",
+      "via": "",
+      "end": "깃대배기봉",
+      "distanceMeters": 3200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "병오마을~깃대배기봉갈림길",
+      "start": "병오마을",
+      "via": "",
+      "end": "깃대배기봉갈림길",
+      "distanceMeters": 5500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "칠반맥이골~부쇠봉갈림길",
+      "start": "칠반맥이골",
+      "via": "상골",
+      "end": "부쇠봉갈림길",
+      "distanceMeters": 3300,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "백천계곡~문수봉갈림길",
+      "start": "백천계곡",
+      "via": "",
+      "end": "문수봉갈림길",
+      "distanceMeters": 3200,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "두리봉갈림길~병오천계곡",
+      "start": "두리봉갈림길",
+      "via": "",
+      "end": "병오천계곡",
+      "distanceMeters": 1700,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "하늘재~부봉~마패봉삼거리",
+      "start": "하늘재",
+      "via": "부봉",
+      "end": "마패봉삼거리",
+      "distanceMeters": 8500,
+      "uphillMinutes": 300,
+      "downhillMinutes": 280
+    },
+    {
+      "name": "덕주사~영봉",
+      "start": "덕주사",
+      "via": "송계삼거리",
+      "end": "영봉",
+      "distanceMeters": 4900,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "보덕암~보덕암삼거리(영봉)",
+      "start": "보덕암",
+      "via": "",
+      "end": "영봉",
+      "distanceMeters": 3700,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "안생달~작은차갓재~황장산~안생달",
+      "start": "안생달",
+      "via": "황장산",
+      "end": "안생달",
+      "distanceMeters": 3800,
+      "uphillMinutes": 210,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "탐방로",
+      "start": "부곡 큰무레골",
+      "via": "천사봉",
+      "end": "비로봉",
+      "distanceMeters": 4100,
+      "uphillMinutes": 210,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "법주사~세심정 우회탐방로(세조길)",
+      "start": "법주사 삼거리",
+      "via": "태평휴게소",
+      "end": "세심정",
+      "distanceMeters": 2,
+      "uphillMinutes": 80,
+      "downhillMinutes": 80
+    },
+    {
+      "name": "데크",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "데크",
+      "start": "채석강, 관음봉",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "16구간",
+      "start": "제1수원지",
+      "via": "",
+      "end": "가운데등",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "우이암~우이깔딱고개",
+      "start": "우이암",
+      "via": "",
+      "end": "우이깔딱고개",
+      "distanceMeters": 6000,
+      "uphillMinutes": 180,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "선림사~고양공원묘지",
+      "start": "선림사",
+      "via": "",
+      "end": "고양공원묘지",
+      "distanceMeters": 3,
+      "uphillMinutes": 100,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "효자동입구~솔고개",
+      "start": "효자동입구",
+      "via": "",
+      "end": "솔고개",
+      "distanceMeters": 8,
+      "uphillMinutes": 180,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "강북구우이령~우이령정상",
+      "start": "강북구우이령",
+      "via": "",
+      "end": "우이령정상",
+      "distanceMeters": 2,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "옥천암~홍은동극동아파트뒤",
+      "start": "옥천암",
+      "via": "",
+      "end": "홍은동극동아파트뒤",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "15.연화봉~비로봉",
+      "start": "연화봉",
+      "via": "천동삼거리",
+      "end": "비로봉",
+      "distanceMeters": 4300,
+      "uphillMinutes": 105,
+      "downhillMinutes": 105
+    },
+    {
+      "name": "뱀사골 제1자연관찰로",
+      "start": "뱀사골힐링야영장",
+      "via": "",
+      "end": "뱀사골힐링야영장",
+      "distanceMeters": 1000,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "뱀사골 제2자연관찰로",
+      "start": "반선교",
+      "via": "",
+      "end": "요룡대",
+      "distanceMeters": 2000,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "구룡계곡 자연관찰로",
+      "start": "육모정",
+      "via": "",
+      "end": "육모정",
+      "distanceMeters": 1500,
+      "uphillMinutes": 35,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "원효교~꼬막재",
+      "start": "원효교",
+      "via": "",
+      "end": "꼬막재",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원효광장~장불재",
+      "start": "원효광장",
+      "via": "늦재삼거리",
+      "end": "장불재",
+      "distanceMeters": 6,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "충장사~용추갈림길",
+      "start": "충장사",
+      "via": "동화사터",
+      "end": "용추갈림길",
+      "distanceMeters": 6,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "늦재삼거리~토끼등",
+      "start": "늦재삼거리",
+      "via": "바람재",
+      "end": "토끼등",
+      "distanceMeters": 2,
+      "uphillMinutes": 1,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "토끼등~중머리재",
+      "start": "토끼등",
+      "via": "봉황대",
+      "end": "중머리재",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "증심교~동화사터갈림길",
+      "start": "증심교",
+      "via": "토끼등",
+      "end": "동화사터갈림길",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "망양마을~반송재(거제)",
+      "start": "망양마을",
+      "via": "",
+      "end": "반송재",
+      "distanceMeters": 1100,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "상의지구 자연관찰로",
+      "start": "자하교",
+      "via": "주왕암",
+      "end": "학소대",
+      "distanceMeters": 1,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주산지 자연관찰로",
+      "start": "주산지 입구",
+      "via": "주산지보",
+      "end": "주산지전망대",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "1. 바라길1(학암포~구례포 북단)",
+      "start": "학암포해변",
+      "via": "",
+      "end": "구례포해변 북단",
+      "distanceMeters": 1567,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "2. 바라길2(구례포해변 남단~모재골",
+      "start": "구례포해변 남단",
+      "via": "",
+      "end": "모재골",
+      "distanceMeters": 2257,
+      "uphillMinutes": 35,
+      "downhillMinutes": 35
+    },
+    {
+      "name": "3. 소원길(태배~만리포해변)",
+      "start": "태배",
+      "via": "",
+      "end": "만리포해변",
+      "distanceMeters": 2883,
+      "uphillMinutes": 45,
+      "downhillMinutes": 45
+    },
+    {
+      "name": "4. 파도길1(모항항~행금이)",
+      "start": "모항항",
+      "via": "",
+      "end": "행금이",
+      "distanceMeters": 464,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "5. 파도길2(망미산~파도리해변)",
+      "start": "망미산",
+      "via": "",
+      "end": "파도리해변",
+      "distanceMeters": 623,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "7. 장고도1(대머리선착장~해수욕장)",
+      "start": "대머리선착장",
+      "via": "",
+      "end": "해수욕장",
+      "distanceMeters": 925,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "8. 장고도2(버섯산~염전저수지)",
+      "start": "버섯산",
+      "via": "",
+      "end": "염전저수지",
+      "distanceMeters": 860,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "9. 고대도(당너머해수욕장~고대방파제",
+      "start": "당너머해수욕장",
+      "via": "",
+      "end": "고대방파제",
+      "distanceMeters": 494,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "학암포 자연관찰로",
+      "start": "학암포주차장화장실 맞은편",
+      "via": "학암포습지",
+      "end": "학암포해변 북부",
+      "distanceMeters": 700,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "몽산포 자연관찰로",
+      "start": "몽산포야영장",
+      "via": "",
+      "end": "몽산포습지데크",
+      "distanceMeters": 700,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "탐방로(초암공원지킴터~초암사)",
+      "start": "초암공원지킴터",
+      "via": "초암탐방지원센터",
+      "end": "초암사",
+      "distanceMeters": 1930,
+      "uphillMinutes": 50,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "24. 소막골야영장~구 가랑잎초교",
+      "start": "소막골야영장",
+      "via": "",
+      "end": "구 가랑잎초교",
+      "distanceMeters": 3110,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "만지마을~만지마을",
+      "start": "만지마을",
+      "via": "만지봉",
+      "end": "만지마을",
+      "distanceMeters": 2500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "가마솥골입구~자생식물원입구",
+      "start": "가마솥골입구",
+      "via": "",
+      "end": "자생식물원 입구",
+      "distanceMeters": 960,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "오색1교~관터",
+      "start": "오색1교",
+      "via": "",
+      "end": "관터",
+      "distanceMeters": 1480,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "곰배령~진동리하산길",
+      "start": "곰배령",
+      "via": "",
+      "end": "진동리하산길",
+      "distanceMeters": 900,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(남대분교~늦은목이)",
+      "start": "늦은목이",
+      "via": "",
+      "end": "남대분교",
+      "distanceMeters": 3,
+      "uphillMinutes": 90,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "목재교량",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "목재교량",
+      "start": "진국교",
+      "via": "진국교",
+      "end": "진국교",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "송추자연관찰로",
+      "start": "송추계곡입구",
+      "via": "",
+      "end": "송추샘",
+      "distanceMeters": 1100,
+      "uphillMinutes": 30,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "울대습지 자연관찰로",
+      "start": "울대습지시점",
+      "via": "",
+      "end": "울대습지종점",
+      "distanceMeters": 500,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "정릉 자연관찰로",
+      "start": "정릉 탐방지원센터상단150m",
+      "via": "청수1교",
+      "end": "정릉 탐방지원센터상단150m",
+      "distanceMeters": 700,
+      "uphillMinutes": 15,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "증심지구 천변 자연관찰로",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "송계지구무장애탐방로",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 1000,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "울산바위 일출쉼터",
+      "start": "소공원",
+      "via": "계조암",
+      "end": "울산바위 정상",
+      "distanceMeters": 3800,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "죽령옛길 탐방로",
+      "start": "용부사",
+      "via": "죽령폭포",
+      "end": "음지마을",
+      "distanceMeters": 2915,
+      "uphillMinutes": 100,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "죽령옛길 탐방로",
+      "start": "용부사",
+      "via": "죽령폭포",
+      "end": "음지마을",
+      "distanceMeters": 2915,
+      "uphillMinutes": 100,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "백련사~오수자굴~중",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "우이자연관찰로",
+      "start": "소귀천공원지킴터",
+      "via": "",
+      "end": "소귀천탐방로",
+      "distanceMeters": 900,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "수유자연관찰로",
+      "start": "아카데미탐방지원센터",
+      "via": "가마터",
+      "end": "이준열사묘입구",
+      "distanceMeters": 1500,
+      "uphillMinutes": 25,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "무장애탐방로",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "총각샘 데크",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "총각샘 데크",
+      "start": "",
+      "via": "",
+      "end": "",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "비자~북암",
+      "start": "비자",
+      "via": "",
+      "end": "북암",
+      "distanceMeters": 4800,
+      "uphillMinutes": 240,
+      "downhillMinutes": 210
+    },
+    {
+      "name": "6.관음사~염불사지",
+      "start": "관음사",
+      "via": "칠불암",
+      "end": "염불사지",
+      "distanceMeters": 4000,
+      "uphillMinutes": 150,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "횡간~사자바위",
+      "start": "횡간",
+      "via": "",
+      "end": "사자바위",
+      "distanceMeters": 1300,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "물하태~임촌",
+      "start": "물하태",
+      "via": "",
+      "end": "임촌",
+      "distanceMeters": 1500,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "울몰~석화포",
+      "start": "울몰",
+      "via": "",
+      "end": "석화포",
+      "distanceMeters": 1500,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "안도해변~이야포",
+      "start": "안도해수욕장",
+      "via": "",
+      "end": "이야포",
+      "distanceMeters": 3000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "장촌~해안가",
+      "start": "장촌",
+      "via": "",
+      "end": "해안가",
+      "distanceMeters": 700,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "팔영산종주",
+      "start": "야영장",
+      "via": "",
+      "end": "남포미술관",
+      "distanceMeters": 7000,
+      "uphillMinutes": 250,
+      "downhillMinutes": 220
+    },
+    {
+      "name": "적취봉~야영장",
+      "start": "적취봉",
+      "via": "",
+      "end": "야영장",
+      "distanceMeters": 3600,
+      "uphillMinutes": 160,
+      "downhillMinutes": 140
+    },
+    {
+      "name": "곡강~성주봉",
+      "start": "곡강",
+      "via": "",
+      "end": "성주봉",
+      "distanceMeters": 2500,
+      "uphillMinutes": 150,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "성기제~묘지",
+      "start": "성기제",
+      "via": "",
+      "end": "묘지",
+      "distanceMeters": 2000,
+      "uphillMinutes": 80,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "휴양림~헬기장",
+      "start": "휴양림",
+      "via": "",
+      "end": "헬기장",
+      "distanceMeters": 900,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "휴양림~전망대",
+      "start": "휴양림",
+      "via": "",
+      "end": "전망대",
+      "distanceMeters": 1000,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "휴양림~두류봉",
+      "start": "휴양림",
+      "via": "",
+      "end": "두류봉",
+      "distanceMeters": 800,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "유영봉~아랫길",
+      "start": "유영봉",
+      "via": "",
+      "end": "아랫길",
+      "distanceMeters": 1000,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "두류봉~탑재",
+      "start": "두류봉",
+      "via": "",
+      "end": "탑재",
+      "distanceMeters": 300,
+      "uphillMinutes": 20,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "우금암",
+      "start": "개암사",
+      "via": "우금암",
+      "end": "만석동",
+      "distanceMeters": 5300,
+      "uphillMinutes": 150,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "인장암",
+      "start": "세봉",
+      "via": "",
+      "end": "인장암",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "만석동",
+      "start": "만석동",
+      "via": "",
+      "end": "감불",
+      "distanceMeters": 4,
+      "uphillMinutes": 150,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "마실길",
+      "start": "고사포",
+      "via": "반월",
+      "end": "죽막",
+      "distanceMeters": 3,
+      "uphillMinutes": 120,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "쇠뿔바위",
+      "start": "어수대",
+      "via": "쇠뿔바위",
+      "end": "중계교부근",
+      "distanceMeters": 8000,
+      "uphillMinutes": 240,
+      "downhillMinutes": 250
+    },
+    {
+      "name": "늑도주차장~큰섬산",
+      "start": "늑도주차장",
+      "via": "",
+      "end": "큰섬산",
+      "distanceMeters": 300,
+      "uphillMinutes": 15,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "복곡제2주차장~쌍홍문",
+      "start": "복곡제2주차장",
+      "via": "상사암",
+      "end": "쌍홍문",
+      "distanceMeters": 2000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "금산입구~금산입구(자연관찰로)",
+      "start": "금산입구",
+      "via": "",
+      "end": "금산입구",
+      "distanceMeters": 1000,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "두모계곡~이태조기단",
+      "start": "두모계곡",
+      "via": "부소암",
+      "end": "이태조기단",
+      "distanceMeters": 2800,
+      "uphillMinutes": 150,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "초양주차장~초양도",
+      "start": "초양주차장",
+      "via": "",
+      "end": "초양도",
+      "distanceMeters": 439,
+      "uphillMinutes": 5,
+      "downhillMinutes": 5
+    },
+    {
+      "name": "이락사입구~첨망대",
+      "start": "이락사입구",
+      "via": "",
+      "end": "첨망대",
+      "distanceMeters": 1100,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "노도마을~김만중유허지",
+      "start": "노도마을",
+      "via": "",
+      "end": "김만중유허지",
+      "distanceMeters": 1000,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "노량공원~남해대교",
+      "start": "노량공원",
+      "via": "",
+      "end": "남해대교",
+      "distanceMeters": 1500,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "11.상위~묘봉치",
+      "start": "상위",
+      "via": "",
+      "end": "묘봉치",
+      "distanceMeters": 1500,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "10.무넹기보~노고단고개",
+      "start": "무넹기보",
+      "via": "노고단대피소",
+      "end": "노고단고개",
+      "distanceMeters": 600,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "9.노루목~반야봉삼거리",
+      "start": "노루목",
+      "via": "",
+      "end": "반야봉삼거리",
+      "distanceMeters": 300,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "7.천은사입구~차나무밭",
+      "start": "천은사입구",
+      "via": "천은사",
+      "end": "차나무밭",
+      "distanceMeters": 1000,
+      "uphillMinutes": 50,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "8.천은제입구~제방",
+      "start": "천은제입구",
+      "via": "천은사",
+      "end": "제방",
+      "distanceMeters": 1200,
+      "uphillMinutes": 50,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "18.버들받~소야",
+      "start": "버들받",
+      "via": "",
+      "end": "소야",
+      "distanceMeters": 2500,
+      "uphillMinutes": 70,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "상원사-두로령",
+      "start": "상원사",
+      "via": "비로봉",
+      "end": "두로령",
+      "distanceMeters": 7700,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "북대사~상왕봉삼거리",
+      "start": "북대사",
+      "via": "",
+      "end": "상왕봉삼거리",
+      "distanceMeters": 1100,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "상원사-중대",
+      "start": "상원사",
+      "via": "",
+      "end": "중대",
+      "distanceMeters": 1300,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "운두령-노동계곡",
+      "start": "운두령",
+      "via": "계방산",
+      "end": "노동계곡",
+      "distanceMeters": 6500,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "계방산-삼거리",
+      "start": "계방산",
+      "via": "",
+      "end": "삼거리",
+      "distanceMeters": 1000,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "탐방로",
+      "start": "구룡사",
+      "via": "",
+      "end": "대곡야영장",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로",
+      "start": "수레너미",
+      "via": "",
+      "end": "한다리골",
+      "distanceMeters": 5,
+      "uphillMinutes": 180,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "탐방로",
+      "start": "슥새울입구",
+      "via": "",
+      "end": "슥새울",
+      "distanceMeters": 4,
+      "uphillMinutes": 120,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "무릉교~치인교",
+      "start": "무릉교",
+      "via": "",
+      "end": "치인교",
+      "distanceMeters": 4400,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "봉양리~법전리",
+      "start": "봉양리",
+      "via": "",
+      "end": "법전리",
+      "distanceMeters": 6290,
+      "uphillMinutes": 180,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "1.부처골~해목령",
+      "start": "부처골",
+      "via": "",
+      "end": "해목령",
+      "distanceMeters": 2000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "2.옥룡암~전망대",
+      "start": "옥룡암",
+      "via": "일천ㆍ마왕바위",
+      "end": "전망대",
+      "distanceMeters": 2200,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "3.통일전~전망대",
+      "start": "통일전",
+      "via": "",
+      "end": "전망대",
+      "distanceMeters": 1100,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "4.포석정~전망대",
+      "start": "포석정",
+      "via": "부흥사",
+      "end": "전망대",
+      "distanceMeters": 2100,
+      "uphillMinutes": 150,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "5.삼릉~금오봉",
+      "start": "삼릉",
+      "via": "상선암",
+      "end": "금오봉",
+      "distanceMeters": 2100,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "7.틈수골~새갓골",
+      "start": "틈수골",
+      "via": "천룡사",
+      "end": "새갓골",
+      "distanceMeters": 3700,
+      "uphillMinutes": 150,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "8.상서장~절터갈림길",
+      "start": "상서장",
+      "via": "",
+      "end": "절터갈림길",
+      "distanceMeters": 1000,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "9.이영재입구~이영재",
+      "start": "이영재 입구",
+      "via": "",
+      "end": "이영재",
+      "distanceMeters": 700,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "10.국사골~지바위갈림길",
+      "start": "국사골",
+      "via": "",
+      "end": "지바위갈림길",
+      "distanceMeters": 1200,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "11.지바위골~팔각정터",
+      "start": "지바위골",
+      "via": "",
+      "end": "팔각정터",
+      "distanceMeters": 1300,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "12.당간지주~해목령",
+      "start": "당간지주",
+      "via": "",
+      "end": "해목령",
+      "distanceMeters": 1200,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "12.삼불사~바둑바위",
+      "start": "삼불사",
+      "via": "",
+      "end": "바둑바위",
+      "distanceMeters": 1400,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "14.약수골~금오봉",
+      "start": "약수골",
+      "via": "",
+      "end": "금오봉",
+      "distanceMeters": 1500,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "15.용장골~남산진입도로",
+      "start": "용장골",
+      "via": "용장사지",
+      "end": "남산진입도로",
+      "distanceMeters": 1900,
+      "uphillMinutes": 80,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "16.설잠교~백운재",
+      "start": "설잠교",
+      "via": "",
+      "end": "백운재",
+      "distanceMeters": 1800,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "17.천우사~고위봉",
+      "start": "천우사",
+      "via": "이무기능선",
+      "end": "고위봉",
+      "distanceMeters": 1700,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "18.와룡사~열반재",
+      "start": "와룡사",
+      "via": "천룡사지",
+      "end": "열반재",
+      "distanceMeters": 1600,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "19.새갓골~이영재",
+      "start": "새갓골",
+      "via": "봉화대능선",
+      "end": "이영재",
+      "distanceMeters": 3800,
+      "uphillMinutes": 120,
+      "downhillMinutes": 110
+    },
+    {
+      "name": "20.철와골~전망대",
+      "start": "철와골",
+      "via": "",
+      "end": "전망대",
+      "distanceMeters": 600,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "21.불국사~보불로",
+      "start": "불국사",
+      "via": "토함산정상",
+      "end": "보불로",
+      "distanceMeters": 10500,
+      "uphillMinutes": 300,
+      "downhillMinutes": 300
+    },
+    {
+      "name": "22.추령~토함산",
+      "start": "추령",
+      "via": "",
+      "end": "토함산정상",
+      "distanceMeters": 3100,
+      "uphillMinutes": 90,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "23.시부거리~토함산",
+      "start": "시부거리",
+      "via": "",
+      "end": "토함산",
+      "distanceMeters": 1900,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "24.탑골~토함산",
+      "start": "탑골",
+      "via": "",
+      "end": "토함산정상",
+      "distanceMeters": 2300,
+      "uphillMinutes": 70,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "25.암곡~암곡",
+      "start": "암곡",
+      "via": "무장봉",
+      "end": "암곡",
+      "distanceMeters": 8500,
+      "uphillMinutes": 210,
+      "downhillMinutes": 210
+    },
+    {
+      "name": "26.추원사~용연폭포",
+      "start": "추원사",
+      "via": "수랫재",
+      "end": "용연폭포",
+      "distanceMeters": 3900,
+      "uphillMinutes": 120,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "27.당고개~백석마을",
+      "start": "당고개",
+      "via": "단석산정상",
+      "end": "백석마을",
+      "distanceMeters": 6500,
+      "uphillMinutes": 200,
+      "downhillMinutes": 180
+    },
+    {
+      "name": "28.신선사~단석산",
+      "start": "신선사",
+      "via": "",
+      "end": "단석산정상",
+      "distanceMeters": 1700,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "29.OK수련원~단석산",
+      "start": "OK수련원",
+      "via": "",
+      "end": "단석산정상",
+      "distanceMeters": 2000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "30.천주암~단석산",
+      "start": "천주암",
+      "via": "",
+      "end": "단석산정상",
+      "distanceMeters": 2000,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "31.용담주차장~용담주차장",
+      "start": "용담정주차장",
+      "via": "구미산정상",
+      "end": "용담정주차장",
+      "distanceMeters": 4800,
+      "uphillMinutes": 150,
+      "downhillMinutes": 150
+    },
+    {
+      "name": "32.굴불사지~다불마을",
+      "start": "굴불사지",
+      "via": "소금강산",
+      "end": "다불마을",
+      "distanceMeters": 1500,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "33.탈해왕릉~백률사",
+      "start": "탈해왕릉",
+      "via": "",
+      "end": "백률사",
+      "distanceMeters": 1000,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "34.다불마을~금학산",
+      "start": "다불마을",
+      "via": "성지골약수터",
+      "end": "금학산",
+      "distanceMeters": 1100,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "35.송화산입구~큰마을",
+      "start": "송화산입구",
+      "via": "옥녀봉",
+      "end": "큰마을",
+      "distanceMeters": 3000,
+      "uphillMinutes": 100,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "36.경대교~송화산",
+      "start": "경대교",
+      "via": "",
+      "end": "송화산",
+      "distanceMeters": 1200,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "37.여래사~송화산",
+      "start": "여래사",
+      "via": "",
+      "end": "송화산",
+      "distanceMeters": 500,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "38.무열왕릉~월성중",
+      "start": "무열왕릉",
+      "via": "",
+      "end": "월성중",
+      "distanceMeters": 2900,
+      "uphillMinutes": 100,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "39.선원사~선도산",
+      "start": "선원사",
+      "via": "",
+      "end": "선도산",
+      "distanceMeters": 1000,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "탐방로",
+      "start": "효자동입구",
+      "via": "",
+      "end": "솔고개",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주등산로",
+      "start": "효자동입구",
+      "via": "",
+      "end": "솔고개",
+      "distanceMeters": 0,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주등산로",
+      "start": "우이암매표소",
+      "via": "",
+      "end": "원통사",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주등산로",
+      "start": "육모정매표소",
+      "via": "",
+      "end": "원통사",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "육모정매표소",
+      "via": "",
+      "end": "육모정고개",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "우이암",
+      "via": "",
+      "end": "우이깔딱고개",
+      "distanceMeters": 6,
+      "uphillMinutes": 140,
+      "downhillMinutes": 140
+    },
+    {
+      "name": "백운매표소~깔딱고개",
+      "start": "백운매표소",
+      "via": "",
+      "end": "깔딱고개",
+      "distanceMeters": 2,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "백운대매표소",
+      "via": "하루재,위문",
+      "end": "백운대",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주등산로",
+      "start": "용암문매표소",
+      "via": "",
+      "end": "용암문",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "선운교~대동약수",
+      "start": "선운교",
+      "via": "옥류교-소귀천매표소",
+      "end": "대동약수",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주등산로",
+      "start": "백련사매표소",
+      "via": "진달래능선",
+      "end": "대동문",
+      "distanceMeters": 3,
+      "uphillMinutes": 35,
+      "downhillMinutes": 35
+    },
+    {
+      "name": "주등산로",
+      "start": "운가사매표소",
+      "via": "",
+      "end": "진달래능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "아카데미매표소",
+      "via": "구천폭포",
+      "end": "대동문",
+      "distanceMeters": 2,
+      "uphillMinutes": 3,
+      "downhillMinutes": 3
+    },
+    {
+      "name": "주등산로",
+      "start": "위문,용암문",
+      "via": "대동문,보국문,대성문,",
+      "end": "대남문",
+      "distanceMeters": 4,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "주등산로",
+      "start": "냉골매표소",
+      "via": "",
+      "end": "칼바위능선",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "화계동매표소",
+      "via": "",
+      "end": "칼바위능선",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "빨래골매표소",
+      "via": "칼바위능선",
+      "end": "산성주능선",
+      "distanceMeters": 3,
+      "uphillMinutes": 50,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "주등산로",
+      "start": "정릉매표소",
+      "via": "",
+      "end": "보국문",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "주등산로",
+      "start": "청수폭포",
+      "via": "일선사",
+      "end": "대성문",
+      "distanceMeters": 3,
+      "uphillMinutes": 35,
+      "downhillMinutes": 35
+    },
+    {
+      "name": "주등산로",
+      "start": "북악매표소",
+      "via": "",
+      "end": "형제봉삼거리",
+      "distanceMeters": 2,
+      "uphillMinutes": 25,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "주등산로",
+      "start": "형제봉매표소",
+      "via": "형제봉",
+      "end": "일선사",
+      "distanceMeters": 2,
+      "uphillMinutes": 35,
+      "downhillMinutes": 35
+    },
+    {
+      "name": "주등산로",
+      "start": "평창1매표소",
+      "via": "일선사-보현봉",
+      "end": "대남문",
+      "distanceMeters": 4,
+      "uphillMinutes": 90,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "주등산로",
+      "start": "구기분소",
+      "via": "",
+      "end": "대남문",
+      "distanceMeters": 3,
+      "uphillMinutes": 35,
+      "downhillMinutes": 35
+    },
+    {
+      "name": "주등산로",
+      "start": "비봉매표소",
+      "via": "비봉능선-문수봉",
+      "end": "대남문",
+      "distanceMeters": 4,
+      "uphillMinutes": 45,
+      "downhillMinutes": 45
+    },
+    {
+      "name": "주등산로",
+      "start": "승가매표소",
+      "via": "",
+      "end": "비봉능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "탕춘대매표소",
+      "via": "",
+      "end": "절터샘",
+      "distanceMeters": 1,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "주등산로",
+      "start": "구기터널입구",
+      "via": "",
+      "end": "구기불광능선",
+      "distanceMeters": 2,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "주등산로",
+      "start": "정진",
+      "via": "",
+      "end": "족두리봉",
+      "distanceMeters": 1,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "주등산로",
+      "start": "불광계곡",
+      "via": "",
+      "end": "비봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "선림~향로봉밑갈림길",
+      "start": "선림",
+      "via": "",
+      "end": "향로봉밑 갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "주등산로",
+      "start": "기자촌",
+      "via": "",
+      "end": "향로봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "주등산로",
+      "start": "진관계곡",
+      "via": "",
+      "end": "비봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 50,
+      "downhillMinutes": 50
+    },
+    {
+      "name": "주등산로",
+      "start": "삼천사계곡",
+      "via": "",
+      "end": "사모바위",
+      "distanceMeters": 2,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "삼천사계곡~문수봉",
+      "start": "삼천사계곡",
+      "via": "",
+      "end": "문수봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "주등산로",
+      "start": "삼천사계곡",
+      "via": "",
+      "end": "사모바위",
+      "distanceMeters": 3,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "삼천사계곡입구~부왕동암문",
+      "start": "삼천사계곡입구",
+      "via": "삼천사",
+      "end": "부왕동암문",
+      "distanceMeters": 3,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "백화사입구~가사당암문",
+      "start": "백화사입구",
+      "via": "",
+      "end": "가사당암문",
+      "distanceMeters": 2,
+      "uphillMinutes": 25,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "용암사입구~문수봉",
+      "start": "용암사입구",
+      "via": "의상능선",
+      "end": "문수봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 120,
+      "downhillMinutes": 100
+    },
+    {
+      "name": "산성분소~보리사",
+      "start": "산성분소",
+      "via": "",
+      "end": "보리사",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "법용사입구~가사당암문",
+      "start": "범용사입구",
+      "via": "",
+      "end": "가사당암문",
+      "distanceMeters": 2,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "행궁지입구~청수동암문",
+      "start": "행궁지입구",
+      "via": "남장대지",
+      "end": "청수동암문",
+      "distanceMeters": 2,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "북한산성계곡~위문",
+      "start": "북한산성계곡",
+      "via": "대서문",
+      "end": "위문",
+      "distanceMeters": 4,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "밤골입구~밤골계곡",
+      "start": "밤골입구",
+      "via": "",
+      "end": "밤골계곡",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "사기막골입구~백운대",
+      "start": "사기막골입구",
+      "via": "",
+      "end": "백운대",
+      "distanceMeters": 3,
+      "uphillMinutes": 55,
+      "downhillMinutes": 55
+    },
+    {
+      "name": "태고사~북한산대피소",
+      "start": "태고사",
+      "via": "",
+      "end": "북한산대피소",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "북한산성계곡~대남문",
+      "start": "북한산성계곡",
+      "via": "대성암",
+      "end": "대남문",
+      "distanceMeters": 1,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "원도봉~포대능선",
+      "start": "원도봉",
+      "via": "다락능선",
+      "end": "포대능선",
+      "distanceMeters": 3,
+      "uphillMinutes": 35,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "우이분소밑~구복암위삼거리",
+      "start": "우이분소밑",
+      "via": "",
+      "end": "구복암위삼거리",
+      "distanceMeters": 9,
+      "uphillMinutes": 230,
+      "downhillMinutes": 210
+    },
+    {
+      "name": "불심원뒤~구기터널하단",
+      "start": "불심원뒤",
+      "via": "",
+      "end": "구기터널하단",
+      "distanceMeters": 3,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "수리봉계곡입구~정진사입구",
+      "start": "수리봉계곡 입구",
+      "via": "",
+      "end": "정진사입구",
+      "distanceMeters": 2,
+      "uphillMinutes": 20,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "선림사~고양공원묘지입구",
+      "start": "선림사",
+      "via": "",
+      "end": "고양 공원묘지 입구",
+      "distanceMeters": 3,
+      "uphillMinutes": 65,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "주등산로",
+      "start": "구기계곡삼거리",
+      "via": "",
+      "end": "승가사",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 8
+    },
+    {
+      "name": "구기계곡삼거리~승가사",
+      "start": "구기계곡삼거리",
+      "via": "",
+      "end": "승가사",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 8
+    },
+    {
+      "name": "효자비~밤골능선삼거리",
+      "start": "효자비",
+      "via": "",
+      "end": "밤골능선삼거리",
+      "distanceMeters": 2,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "효자비~북문",
+      "start": "효자비",
+      "via": "",
+      "end": "북문",
+      "distanceMeters": 2,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "삼천사하단~사모바위",
+      "start": "삼천사하단",
+      "via": "응봉능선",
+      "end": "사모바위",
+      "distanceMeters": 3,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "대호아파트뒤~족두리봉",
+      "start": "대호아파트 뒤",
+      "via": "",
+      "end": "족두리봉",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 8
+    },
+    {
+      "name": "탕춘대매표소~구기터널",
+      "start": "탕춘대매표소",
+      "via": "암문-녹번동",
+      "end": "구기터널(배수지)",
+      "distanceMeters": 2,
+      "uphillMinutes": 30,
+      "downhillMinutes": 25
+    },
+    {
+      "name": "독박골~족두리봉밑갈림길",
+      "start": "독박골",
+      "via": "",
+      "end": "족두리봉 밑 갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "혜원삼거리~구기분소",
+      "start": "혜원삼거리",
+      "via": "",
+      "end": "구기분소",
+      "distanceMeters": 1,
+      "uphillMinutes": 25,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "6.전북학생교육원~세동치",
+      "start": "전북학생교육원",
+      "via": "",
+      "end": "세동치",
+      "distanceMeters": 1800,
+      "uphillMinutes": 50,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "7.부운마을~부운치1",
+      "start": "부운마을",
+      "via": "",
+      "end": "부운치1",
+      "distanceMeters": 3000,
+      "uphillMinutes": 90,
+      "downhillMinutes": 70
+    },
+    {
+      "name": "8.팔랑마을~팔랑치",
+      "start": "팔랑마을",
+      "via": "",
+      "end": "팔랑치",
+      "distanceMeters": 2000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "9.산덕임도~부운치2",
+      "start": "산덕임도",
+      "via": "",
+      "end": "부운치2",
+      "distanceMeters": 600,
+      "uphillMinutes": 30,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "신풍령~횡경재",
+      "start": "신풍령",
+      "via": "",
+      "end": "횡경재",
+      "distanceMeters": 7800,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "탐방로(당골~유석사)",
+      "start": "당골",
+      "via": "",
+      "end": "유석사",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "탐방로(희방역~희방3주차장)",
+      "start": "희방역",
+      "via": "",
+      "end": "희방3주차장",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "노고단고개~천왕봉(삼도봉삼거리~연하천",
+      "start": "삼도봉삼거리",
+      "via": "",
+      "end": "연하천",
+      "distanceMeters": 5000,
+      "uphillMinutes": 240,
+      "downhillMinutes": 240
+    },
+    {
+      "name": "비봉매표소~대남문",
+      "start": "비봉매표소",
+      "via": "비봉능선",
+      "end": "대남문",
+      "distanceMeters": 4,
+      "uphillMinutes": 70,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "탐방로",
+      "start": "혜원사삼거리",
+      "via": "",
+      "end": "구기분소",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "장성새재-상왕봉",
+      "start": "장성새재",
+      "via": "순창새재",
+      "end": "상왕봉",
+      "distanceMeters": 4000,
+      "uphillMinutes": 3,
+      "downhillMinutes": 2
+    },
+    {
+      "name": "구암사입구~백양계곡",
+      "start": "구암사",
+      "via": "",
+      "end": "백양계곡",
+      "distanceMeters": 900,
+      "uphillMinutes": 40,
+      "downhillMinutes": 35
+    },
+    {
+      "name": "송곡",
+      "start": "신지대교휴게소",
+      "via": "",
+      "end": "명사갯길",
+      "distanceMeters": 560,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "두모리",
+      "start": "직포",
+      "via": "",
+      "end": "학동",
+      "distanceMeters": 2590,
+      "uphillMinutes": 90,
+      "downhillMinutes": 90
+    },
+    {
+      "name": "우학리",
+      "start": "학동",
+      "via": "",
+      "end": "심포",
+      "distanceMeters": 2130,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "심장리",
+      "start": "심포",
+      "via": "",
+      "end": "장지",
+      "distanceMeters": 1460,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "120801-0301-0014",
+      "start": "안국사",
+      "via": "",
+      "end": "남문지",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "탐방로",
+      "start": "안국사",
+      "via": "",
+      "end": "남문지",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "탐방로",
+      "start": "안국사",
+      "via": "",
+      "end": "남문지",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "안국사~남문지",
+      "start": "안국사",
+      "via": "",
+      "end": "남문지",
+      "distanceMeters": 800,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "월곡~차면",
+      "start": "월곡",
+      "via": "",
+      "end": "차면",
+      "distanceMeters": 3000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "장불재~신선대억새평전",
+      "start": "장불재",
+      "via": "천왕봉",
+      "end": "신선대억새평전",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "너릿재~장불재",
+      "start": "너릿재",
+      "via": "수만탐방지원센터",
+      "end": "장불재",
+      "distanceMeters": 7,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "교리제~선정암",
+      "start": "교리제",
+      "via": "교골",
+      "end": "선정암",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "너릿재~장불재",
+      "start": "너릿재",
+      "via": "수만탐방지원센터",
+      "end": "장불재",
+      "distanceMeters": 7,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "교리터널~수레바위",
+      "start": "교리터널",
+      "via": "",
+      "end": "수레바위",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "오감연결길~배등골",
+      "start": "오감연결길",
+      "via": "",
+      "end": "배등골",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "만연주차장~만연산갈림길",
+      "start": "만연주차장",
+      "via": "",
+      "end": "만연산갈림길",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "만연산고개~만연산갈림길",
+      "start": "만연산고개",
+      "via": "만연산",
+      "end": "만연산갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "수만탐방지원센터~중머리재",
+      "start": "수만탐방지원센터",
+      "via": "용추폭포입구",
+      "end": "중머리재",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "들국화갈림길~안양산갈림길",
+      "start": "들국화갈림길",
+      "via": "",
+      "end": "안양산갈림길",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "들국화마을~백마능선",
+      "start": "들국화마을",
+      "via": "",
+      "end": "백마능선",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "안양산휴양림~장불재갈림길",
+      "start": "안양산휴양림",
+      "via": "낙타봉",
+      "end": "장불재갈림길",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "도원마을~장불재쉼터",
+      "start": "도원마을",
+      "via": "도원계곡",
+      "end": "장불재쉼터",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "영평~석불암",
+      "start": "영평",
+      "via": "",
+      "end": "석불암",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "영평~시무지기갈림길",
+      "start": "영평",
+      "via": "",
+      "end": "시무지기갈림길",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "용강마을~시무지기폭포",
+      "start": "용강마을",
+      "via": "입석교",
+      "end": "시무지기폭포",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "무동제~신선대갈림길",
+      "start": "무동제",
+      "via": "",
+      "end": "신선대갈림길",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "경상제~무동마을",
+      "start": "경상제",
+      "via": "",
+      "end": "무동마을",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "유둔재~신선대억새평전",
+      "start": "유둔재",
+      "via": "",
+      "end": "신선대억새평전",
+      "distanceMeters": 6,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "사봉실~상로봉갈림길",
+      "start": "사봉실",
+      "via": "",
+      "end": "상로봉갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "평내촌~사봉실",
+      "start": "평내촌",
+      "via": "",
+      "end": "사봉실",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "정곡~북산",
+      "start": "정곡",
+      "via": "",
+      "end": "북산",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "함충제~신선대갈림길",
+      "start": "함충제",
+      "via": "",
+      "end": "신선대갈림길",
+      "distanceMeters": 6,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "도원야영장~마당바위",
+      "start": "도원야영장",
+      "via": "",
+      "end": "마당바위",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "도원마을~영평갈림길",
+      "start": "도원마을",
+      "via": "",
+      "end": "영평갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "독수정~새터",
+      "start": "독수정",
+      "via": "",
+      "end": "새터",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "내소사 무장애탐방로",
+      "start": "내소사탐방지원센터",
+      "via": "일주문",
+      "end": "내소사 대웅보전",
+      "distanceMeters": 1,
+      "uphillMinutes": 20,
+      "downhillMinutes": 20
+    },
+    {
+      "name": "장도 탐방로",
+      "start": "장도",
+      "via": "",
+      "end": "안골",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "장도탐방로",
+      "start": "장도",
+      "via": "",
+      "end": "안골",
+      "distanceMeters": 1,
+      "uphillMinutes": 40,
+      "downhillMinutes": 40
+    },
+    {
+      "name": "장도 탐방로",
+      "start": "장도",
+      "via": "",
+      "end": "안골",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "장도탐방로",
+      "start": "장도",
+      "via": "",
+      "end": "안골",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "장도탐방로",
+      "start": "장도마을",
+      "via": "",
+      "end": "안골",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "장도탐방로",
+      "start": "장도마을",
+      "via": "",
+      "end": "큰골",
+      "distanceMeters": 1,
+      "uphillMinutes": 30,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "대원사 자연관찰로",
+      "start": "대원교",
+      "via": "",
+      "end": "숯가마터",
+      "distanceMeters": 1000,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "세석 자연관찰로",
+      "start": "세성평전",
+      "via": "",
+      "end": "촛대봉",
+      "distanceMeters": 1500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "중산리 자연관찰로",
+      "start": "중산리탐방안내소",
+      "via": "",
+      "end": "자연관찰로",
+      "distanceMeters": 1500,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "불일폭포 자연관찰로",
+      "start": "쌍계사",
+      "via": "",
+      "end": "불일폭포",
+      "distanceMeters": 2500,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "가내소 자연관찰로",
+      "start": "백무동야영장",
+      "via": "",
+      "end": "가내소",
+      "distanceMeters": 2700,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "원효교-꼬막재",
+      "start": "원효교",
+      "via": "",
+      "end": "꼬막재",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원효광장-장불재",
+      "start": "원효광장",
+      "via": "늦재갈림길",
+      "end": "장불재",
+      "distanceMeters": 6,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "충장사-용추갈림길",
+      "start": "충장사",
+      "via": "동화사터",
+      "end": "용추갈림길",
+      "distanceMeters": 6,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "늦재갈림길-토끼등",
+      "start": "늦재갈림길",
+      "via": "바람재",
+      "end": "토끼등",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "토끼등-중머리재",
+      "start": "토끼등",
+      "via": "봉황대",
+      "end": "중머리재",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "증심교-동화사터갈림길",
+      "start": "증심교",
+      "via": "토끼등",
+      "end": "동화사터갈림길",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "증심교-장불재",
+      "start": "증심교",
+      "via": "중머리재",
+      "end": "장불재",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "의재미술관-새인봉갈림길",
+      "start": "의재미술관",
+      "via": "약사사",
+      "end": "새인봉갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "당산나무-봉황대",
+      "start": "당산나무",
+      "via": "천제단갈림길",
+      "end": "봉황대",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "증심사-봉황대",
+      "start": "증심사",
+      "via": "",
+      "end": "봉황대",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "증심사상가-중머리재",
+      "start": "증심사상가",
+      "via": "새인봉",
+      "end": "중머리재",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "증심교-바람재",
+      "start": "증심교",
+      "via": "덕산골입구",
+      "end": "바람재",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "장원봉-전망대",
+      "start": "장원봉",
+      "via": "바람재",
+      "end": "전망대",
+      "distanceMeters": 5,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "중머리재-목교",
+      "start": "중머리재",
+      "via": "중봉",
+      "end": "목교",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "제1수원지-가운데등갈림길",
+      "start": "제1수원지",
+      "via": "",
+      "end": "가운데등갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "북당골-큰골갈림길",
+      "start": "북당골",
+      "via": "",
+      "end": "큰골갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "등촌마을-금곡마을",
+      "start": "등촌마을",
+      "via": "",
+      "end": "금곡마을",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "잣고개-원효광장",
+      "start": "잣고개",
+      "via": "",
+      "end": "원효광장",
+      "distanceMeters": 7,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "원효광장-서석대",
+      "start": "원효광장",
+      "via": "제철유적지",
+      "end": "서석대",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "장원봉-풍암제",
+      "start": "장원봉",
+      "via": "",
+      "end": "풍암제",
+      "distanceMeters": 7,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "풍암탐방지원센터-제철유적지",
+      "start": "풍암탐방지원센터",
+      "via": "",
+      "end": "제철유적지",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "수락골-샛골",
+      "start": "수락골",
+      "via": "",
+      "end": "샛골",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "각화제-잣고개",
+      "start": "각화제",
+      "via": "군왕봉",
+      "end": "잣고개",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "수락골기점-군왕봉",
+      "start": "수락골기점",
+      "via": "",
+      "end": "군왕봉",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "지산동-충민사",
+      "start": "지산동",
+      "via": "평두메골",
+      "end": "충민사",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "소태동-마집봉",
+      "start": "소태동",
+      "via": "자주등",
+      "end": "마집봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "고래실골-서인봉",
+      "start": "고래실골",
+      "via": "",
+      "end": "서인봉",
+      "distanceMeters": 4,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "제2수원지-용추폭포갈림길",
+      "start": "제2수원지",
+      "via": "용추계곡",
+      "end": "용추폭포갈림길",
+      "distanceMeters": 3,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "용연마을-곰저골",
+      "start": "용연마을",
+      "via": "",
+      "end": "곰저골",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "소태제-마집봉갈림길",
+      "start": "소태제",
+      "via": "",
+      "end": "마집봉갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "평촌마을-평촌마을갈림길",
+      "start": "평촌마을",
+      "via": "",
+      "end": "평촌마을갈림길",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "풍암주차장-광일목장",
+      "start": "풍암주차장",
+      "via": "",
+      "end": "광일목장",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "동화사터상단-중봉",
+      "start": "동화사터상단",
+      "via": "",
+      "end": "중봉",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "늦재갈림길-백운암터",
+      "start": "늦재갈림길",
+      "via": "",
+      "end": "백운암터",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "제1수원지-장군봉갈림길",
+      "start": "제1수원지",
+      "via": "",
+      "end": "장군봉갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "동적골-새인봉갈림길",
+      "start": "동적골",
+      "via": "",
+      "end": "새인봉갈림길",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "선주암갈림길-서인봉갈림길",
+      "start": "선주암갈림길",
+      "via": "",
+      "end": "서인봉갈림길",
+      "distanceMeters": 1,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "소태터널-매봉갈림길",
+      "start": "소태터널",
+      "via": "",
+      "end": "매봉갈림길",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "쌍곡-탐방로(운교리~갈론계곡)",
+      "start": "운교리",
+      "via": "",
+      "end": "갈론계곡",
+      "distanceMeters": 2800,
+      "uphillMinutes": 60,
+      "downhillMinutes": 60
+    },
+    {
+      "name": "쌍곡-탐방로(상촌~옥녀봉)",
+      "start": "상촌",
+      "via": "",
+      "end": "옥녀봉",
+      "distanceMeters": 600,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "정도리자연관찰로",
+      "start": "구계등탐방지원센터",
+      "via": "정도리숲길",
+      "end": "할머니당",
+      "distanceMeters": 1500,
+      "uphillMinutes": 30,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "거문도자연관찰로",
+      "start": "삼거리",
+      "via": "거문도목넘어",
+      "end": "거문도등대",
+      "distanceMeters": 1500,
+      "uphillMinutes": 60,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "탐방로(반선~화개)",
+      "start": "반선",
+      "via": "",
+      "end": "화개",
+      "distanceMeters": 0,
+      "uphillMinutes": 1,
+      "downhillMinutes": 1
+    },
+    {
+      "name": "내도선착장~연인길삼거리(내도)",
+      "start": "내도선착장",
+      "via": "",
+      "end": "연인길삼거리",
+      "distanceMeters": 900,
+      "uphillMinutes": 40,
+      "downhillMinutes": 30
+    },
+    {
+      "name": "월령대~대야산~월령대",
+      "start": "월령대",
+      "via": "대야산",
+      "end": "월령대",
+      "distanceMeters": 4800,
+      "uphillMinutes": 3,
+      "downhillMinutes": 3
+    },
+    {
+      "name": "상원 자연관찰로",
+      "start": "상원사주차장",
+      "via": "",
+      "end": "상원사",
+      "distanceMeters": 2,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "상원 자연관찰로",
+      "start": "상원사주차장",
+      "via": "",
+      "end": "상원사",
+      "distanceMeters": 0,
+      "uphillMinutes": 0,
+      "downhillMinutes": 0
+    },
+    {
+      "name": "남천 자연관찰로",
+      "start": "오토캠핌장 끝",
+      "via": "",
+      "end": "풀옵션야영장 건너편",
+      "distanceMeters": 1,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "죽령 태양계 자연관찰로",
+      "start": "죽령휴게소",
+      "via": "죽령탐방지원센터",
+      "end": "연화봉",
+      "distanceMeters": 7,
+      "uphillMinutes": 150,
+      "downhillMinutes": 120
+    },
+    {
+      "name": "연화봉 자연관찰로",
+      "start": "연화봉화장실",
+      "via": "연화봉",
+      "end": "연화봉화장실",
+      "distanceMeters": 1,
+      "uphillMinutes": 15,
+      "downhillMinutes": 15
+    },
+    {
+      "name": "천동 자연관찰로",
+      "start": "백자골 입구",
+      "via": "",
+      "end": "화전민터",
+      "distanceMeters": 1,
+      "uphillMinutes": 15,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "어의곡 자연관찰로",
+      "start": "어의곡탐방지원센터",
+      "via": "",
+      "end": "어의곡전망대",
+      "distanceMeters": 1,
+      "uphillMinutes": 10,
+      "downhillMinutes": 10
+    },
+    {
+      "name": "생물종보전원 남부센터 탐방데크",
+      "start": "생물종보전원 본원 건물 뒷편",
+      "via": "",
+      "end": "생태학습장 상단",
+      "distanceMeters": 50,
+      "uphillMinutes": 5,
+      "downhillMinutes": 5
+    }
+  ]
+}
